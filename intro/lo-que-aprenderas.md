@@ -11,7 +11,7 @@ Durante el bootcamp tendrás la oportunidad de desarrollar 5 habilidades fundame
 Cada una está conformada por Objetivos de Aprendizaje (OAs), los cuales son pasos más pequeños y concretos que te servirán de guía en el desarrollo de tus habilidades y podrás practicarlos en los diferentes proyectos. Algunos objetivos se repetirán en todos los proyectos, mientras que otros se presentarán solamente en algunas ocasiones, esto con el fin de propiciar un mayor enfoque en dichos objetivos.
 
 {% tabs %}
-{% tab title="Gestión de proyectos UX" %}
+{% tab title="Definición de proyectos UX" %}
 ### Planificación ágil
 
 Estos OAs te van a permitir gestionar tu trabajo de forma efectiva, tomando en cuenta las condiciones del proyecto y el manejo de la incertidumbre.
