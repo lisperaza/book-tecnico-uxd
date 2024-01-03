@@ -45,7 +45,7 @@ Demo: TBD
 
 Para realizar el proyecto, tendrán que elegir una plataforma digital que funcione en todos los países donde se ubican las integrantes del equipo, y que sea de fácil acceso para usuarios ya que necesitarás reclutarlos para tus pruebas de usabilidad. Aquí te damos algunas opciones pero podrás proponer otras dentro de las categorías definidas:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td>E-commerce</td><td><ul><li>Amazon</li><li>Mercado Libre</li><li>Ali Express</li><li>Otras</li></ul></td><td>Coach asignada: TBD</td></tr><tr><td>Banca y finanzas</td><td><ul><li>Bancos: BBVA, Itaú, Pichincha</li><li>Finanzas: Nequi, Rappi</li><li>Otros</li></ul></td><td>Coach</td></tr><tr><td></td><td><ul><li>Aerolíneas: Volaris, Latam Airlines, Aeroméxico</li><li>Buscadores: Atrápalo, Booking</li><li>Otros</li></ul></td><td>Coach asignada: TBD</td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>E-commerce</strong></td><td><ul><li>Amazon</li><li>Mercado Libre</li><li>Ali Express</li><li>Otras</li></ul></td><td>Coach asignada: TBD</td></tr><tr><td><strong>Banca y finanzas</strong></td><td><ul><li>Bancos: BBVA, Itaú, Pichincha</li><li>Finanzas: Nequi, Rappi</li><li>Otros</li></ul></td><td>Coach asignada: TBD</td></tr><tr><td><strong>Hospitalidad</strong></td><td><ul><li>Aerolíneas: Volaris, Latam, Aeroméxico</li><li>Buscadores: Atrápalo, Booking</li><li>Otros</li></ul></td><td>Coach asignada: TBD</td></tr></tbody></table>
 
 
 
