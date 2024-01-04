@@ -1,6 +1,6 @@
 # 🔴 Definición de proyectos UX
 
-Para definir un proyecto de UX, es necesario aprender a planificar las tareas que realizaremos durante el mismo, pero siempre teniendo en mente los resultados que el negocio quiere alcanzar, de lo contrario podríamos tener proyectos llenos de mucho trabajo y pero con poco impacto.
+Para definir un proyecto de UX, es necesario aprender a planificar las tareas que realizaremos durante el mismo, pero siempre teniendo en mente los resultados que el negocio quiere alcanzar, de lo contrario podríamos tener proyectos llenos de mucho trabajo pero con poco impacto.
 
 ### Planificación ágil
 

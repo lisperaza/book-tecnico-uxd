@@ -1,6 +1,6 @@
 # 🟣 Investigación de usuario
 
-Intro tbd
+<mark style="background-color:red;">Intro tbd</mark>
 
 ### Planteamiento de la investigación
 

@@ -4,7 +4,7 @@
 
 * [👋 Bienvenida](README.md)
 * [💛 UXD en Laboratoria](intro/uxd-en-laboratoria.md)
-* [🎯 Lo que aprenderás](intro/lo-que-aprenderas/README.md)
+* [🎯 Lo que aprenderás](intro/lo-que-aprenderas.md)
   * [🔴 Definición de proyectos UX](intro/lo-que-aprenderas/definicion-de-proyectos-ux.md)
   * [🟣 Investigación de usuario](intro/lo-que-aprenderas/investigacion-de-usuario.md)
   * [🟡 Diseño UX/UI](intro/lo-que-aprenderas/diseno-ux-ui.md)
