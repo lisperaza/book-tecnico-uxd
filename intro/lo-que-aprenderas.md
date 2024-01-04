@@ -42,3 +42,10 @@ Es fundamental comprender el negocio y el impacto que se requiere alcanzar con e
 {% endtab %}
 {% endtabs %}
 
+
+
+| Meta               | Objetivo de aprendizaje | Descripción                                                                              |
+| ------------------ | ----------------------- | ---------------------------------------------------------------------------------------- |
+| Planificación ágil | Definir alcance general | Definir un alcance preliminar del proyecto en conjunto con los stakeholders involucrados |
+|                    | Crear plan de trabajo   | Crear un plan de trabajo con actividades priorizadas según cada etapa del proyecto       |
+|                    | Gestionar tareas        | Gestionar tareas mediante la implementación de ceremonias y herramientas de Scrum        |
