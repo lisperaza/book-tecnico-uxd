@@ -25,20 +25,20 @@ Esta es la fase más creativa de todo nuestro trabajo, acá es donde transformam
 
 ### Diseño de interfaces
 
-| Objetivo de aprendizaje                                                  | Descripción                                                                                                          |
-| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| Crear propuesta de diseño visual                                         | Definir las características de los elementos visuales del diseño (colores, tipografías, íconos, imágenes, espaciado) |
-| Utilizar principios de accesibilidad                                     | Asegurar que la propuesta cumpla con principios básicos de accesibilidad (perceptibilidad y operabilidad)            |
-| Implementar diseño responsivo                                            | Crear diseños que se adapten a diferentes dipositivos utilizando principios de responsive design                     |
-| Integrar herramientas de inteligencia artificial para generar propuestas | Experimentar con herramientas de IA para generar múltiples propuestas que sirvan como inspiración para el diseño     |
+| Objetivo de aprendizaje                 | Descripción                                                                                                                                |
+| --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Crear propuesta de diseño visual        | Definir las características de los elementos visuales del diseño (colores, tipografías, íconos, imágenes, espaciado)                       |
+| Utilizar principios de accesibilidad    | Asegurar que la propuesta cumpla con principios básicos de accesibilidad (perceptibilidad y operabilidad)                                  |
+| Implementar diseño responsivo           | Crear diseños que se adapten a diferentes dipositivos utilizando principios de responsive design                                           |
+| Generar propuestas visuales mediante IA | Experimentar con herramientas de inteligencia artificial (IA) para generar múltiples propuestas que sirvan como inspiración para el diseño |
 
 
 
 ### Diseño de contenido
 
-| Objetivo de aprendizaje                        | Descripción                                                                                                            |
-| ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
-| Crear guía de voz y tono                       | Definir características clave de la voz y el tono para micro-contenido UX según la marca                               |
-| Proponer micro-contenido para UX               | Crear o mejorar el micro-contenido (botones, instrucciones, etiquetas, etc.) en la interfaz para mejorar la usabilidad |
-| Definir contenido visual para UX               | Proponer el lenguaje visual de las imágenes, iconos e ilustraciones para mejorar la experiencia del usuario            |
-| Crear textos e imágenes con herramientas de IA | Explorar múltiples propuestas de texto e imágenes generadas con herramientas de inteligencia artificial (IA)           |
+| Objetivo de aprendizaje           | Descripción                                                                                                            |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| Crear guía de voz y tono          | Definir características clave de la voz y el tono para micro-contenido UX según la marca                               |
+| Proponer micro-contenido para UX  | Crear o mejorar el micro-contenido (botones, instrucciones, etiquetas, etc.) en la interfaz para mejorar la usabilidad |
+| Definir contenido visual para UX  | Proponer el lenguaje visual de las imágenes, iconos e ilustraciones para mejorar la experiencia del usuario            |
+| Crear textos e imágenes usando IA | Explorar múltiples propuestas de texto e imágenes generadas con herramientas de inteligencia artificial (IA)           |

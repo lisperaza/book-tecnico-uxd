@@ -33,11 +33,11 @@ Muchas veces necesitaremos acercarnos a las personas usuarias directamente para 
 
 ### Análisis de la investigación
 
-| Objetivo de aprendizaje                                  | Descripción                                                                                                                                   |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Procesar información                                     | Procesar a profundidad la información obtenida evitando sesgos                                                                                |
-| Visualizar la experiencia del usuario                    | Sintetizar la información obtenida de los usuarios mediante alguna técnica de documentación para UX (user journey map, mapa de empatía, etc.) |
-| Identificar patrones                                     | Identificar patrones, observaciones o hallazgos en la información recolectada                                                                 |
-| Sintetizar resultados                                    | Delimitar el problema o necesidad de las personas usuarias que debe resolver el proyecto                                                      |
-| Facilitar el análisis utilizando inteligencia artificial | Utilizar herramientas de IA para transcribir, organizar y sintetizar la información obtenida                                                  |
+| Objetivo de aprendizaje               | Descripción                                                                                                                                   |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Procesar información                  | Procesar a profundidad la información obtenida evitando sesgos                                                                                |
+| Visualizar la experiencia del usuario | Sintetizar la información obtenida de los usuarios mediante alguna técnica de documentación para UX (user journey map, mapa de empatía, etc.) |
+| Identificar patrones                  | Identificar patrones, observaciones o hallazgos en la información recolectada                                                                 |
+| Sintetizar resultados                 | Delimitar el problema o necesidad de las personas usuarias que debe resolver el proyecto                                                      |
+| Facilitar el análisis utilizando IA   | Utilizar herramientas de inteligencia artificial (IA) para transcribir, organizar y sintetizar la información obtenida                        |
 

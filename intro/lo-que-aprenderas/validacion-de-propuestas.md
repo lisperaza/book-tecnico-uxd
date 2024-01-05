@@ -4,12 +4,12 @@ Una vez que tenemos claridad sobre nuestra propuesta de diseño, es momento de e
 
 ### Prototipado
 
-| Objetivo de aprendizaje                    | Descripción                                                                                        |
-| ------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| Crear prototipos básicos                   | Definir las funcionalidades que debe incluir el Mínimo Producto Viable/Deseable (MVP)              |
-| Crear prototipos en alta fidelidad         | Analizar distintas referencias y fuentes de inspiración para el proyecto                           |
-| Utilizar interacciones avanzadas           | Implementar métodos de ideación para proponer soluciones al problema priorizado                    |
-| Utilizar plug-ins de IA para el prototipar | Integrar plug-ins de inteligencia artificial (IA) en Figma que faciliten la creación del prototipo |
+| Objetivo de aprendizaje                 | Descripción                                                                                        |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Crear prototipos básicos                | Definir las funcionalidades que debe incluir el Mínimo Producto Viable/Deseable (MVP)              |
+| Crear prototipos en alta fidelidad      | Analizar distintas referencias y fuentes de inspiración para el proyecto                           |
+| Utilizar interacciones avanzadas        | Implementar métodos de ideación para proponer soluciones al problema priorizado                    |
+| Utilizar plug-ins de IA para prototipar | Integrar plug-ins de inteligencia artificial (IA) en Figma que faciliten la creación del prototipo |
 
 
 
