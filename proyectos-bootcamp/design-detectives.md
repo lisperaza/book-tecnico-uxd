@@ -2,27 +2,36 @@
 
 En nuestra carrera profesional como diseñadoras UX, muchas veces nos uniremos a empresas con **productos existentes**, que requieren mejoras continuas para satisfacer las necesidades de las personas usuarias y alcanzar las metas del negocio.&#x20;
 
-Antes de plantear cambios, debemos conocer los problemas que enfrentan nuestras usuarias, por lo tanto necesitamos **evaluar su interacción con el producto** y priorizar la oportunidad de mejora que mejor satisfaga sus necesidades.
+Antes de plantear cambios, debemos conocer los problemas que enfrentan nuestras usuarias, por lo tanto necesitamos **evaluar su interacción con el producto** y priorizar la oportunidad de mejora que resuelva sus necesidades.
 
-<mark style="background-color:green;">**La misión de este proyecto consiste en evaluar la experiencia de usuario actual de un producto digital y proponer mejoras o el rediseño de funcionalidades existentes. Tus propuestas deben ser validadas con usuarias reales para verificar si resuelve los problemas identificados.**</mark>
+<mark style="background-color:green;">**La misión en este proyecto es evaluar la experiencia de usuario actual de un producto digital y proponer mejoras o el rediseño de funcionalidades existentes. Tus propuestas deben ser validadas con usuarias reales para verificar si resuelve los problemas identificados.**</mark>
 
-### Lo que aprenderás:
+##
+
+## Lo que aprenderás:
+
+Al finalizar el proyecto esperamos que hayas aprendido sobre:
 
 * Métodos y técnicas básicas de cada etapa del proceso de diseño
 * Realizar análisis técnicos basados en heurísticas, principios básicos de diseño visual, accesibilidad y usabilidad (legibilidad, contraste, espaciado)
 * Identificar problemas de diseño mediante evaluación de usabilidad con usuarios
-* Conocer las funcionalidades básicas de Figma (una herramienta de prototipado)
+* Conocer las funcionalidades básicas de Figma (herramienta de prototipado)
 * Desarrollar un mindset ágil de trabajo utilizando ceremonias y herramientas de Scrum
 
-Estos objetivos de aprendizaje son los que podrás poner en práctica durante el proyecto, recuerda priorizar los que son más importantes para ti en este momento del bootcamp.
+#### Objetivos de aprendizaje (OAs)
 
-OAs
+<mark style="background-color:red;">TBD</mark>
 
-LS
+#### Life Skills
+
+Si bien las [8 habilidades](https://coda.io/d/\_dBPgnkAYAiO/\_sucD4) siempre estarán presentes, échale un ojo👀 a estas:
+
+1. **Trabajo en equipo.** Respetando y reconociendo la diversidad de cada una de las personas de su equipo de trabajo, es capaz de comprender su interdependencia para conseguir un objetivo común. Escucha activamente, trabaja de manera colaborativa, busca espacios de diálogo para construir acuerdos.
+2. A**utoaprendizaje.** Es capaz de adquirir continuamente nuevos conocimientos y habilidades. Puede monitorear sus propias necesidades de aprendizaje y encontrar los medios para intentarlo y lograrlo autónomamente. Aprende de los propios errores.
 
 ###
 
-### Consideraciones
+## Consideraciones
 
 * **El proyecto debe estar enfocado en la plataforma digital de la marca seleccionada, NO está permitido considerar otras experiencias relacionadas con el servicio o mercadeo del producto.** Por ejemplo: Una tienda cuenta con un app para compras online (plataforma digital) y sistema de entregas (experiencia física), así como redes sociales donde muestran su campaña de publicidad. Podrás trabajar en el app, SIN incluir propuestas de mejora en su servicio de entregas o campaña de publicidad, ya que aunque impacta la experiencia global de la persona usuaria, se sale del alcance planteado para el proyecto.
 * Trabajarás en duplas (2 estudiantes), te sugerimos elegir un nombre que las represente y facilite identificar tu equipo.
@@ -41,18 +50,16 @@ Demo: TBD
 
 
 
-### Alcance
+## Alcance
 
 Para realizar el proyecto, tendrán que elegir una plataforma digital que funcione en todos los países donde se ubican las integrantes del equipo, y que sea de fácil acceso para usuarios ya que necesitarás reclutarlos para tus pruebas de usabilidad. Aquí te damos algunas opciones pero podrás proponer otras dentro de las categorías definidas:
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>E-commerce</strong></td><td><ul><li>Amazon</li><li>Mercado Libre</li><li>Ali Express</li><li>Otras</li></ul></td><td>Coach asignada: TBD</td></tr><tr><td><strong>Banca y finanzas</strong></td><td><ul><li>Bancos: BBVA, Itaú, Pichincha</li><li>Finanzas: Nequi, Rappi</li><li>Otros</li></ul></td><td>Coach asignada: TBD</td></tr><tr><td><strong>Hospitalidad</strong></td><td><ul><li>Aerolíneas: Volaris, Latam, Aeroméxico</li><li>Buscadores: Atrápalo, Booking</li><li>Otros</li></ul></td><td>Coach asignada: TBD</td></tr></tbody></table>
 
-
-
 El proyecto está dividido en hitos, los cuales son como marcas de kilómetros en las carreteras, donde tú decides qué tan lejos quieres llegar. La decisión es solamente tuya y dependerá del tiempo que tengas disponible día a día, de tu ritmo de aprendizaje y de la profundidad que quieras alcanzar.
 
 {% hint style="danger" %}
-Realizar el hito 1 es indispensable para considerar el proyecto como completado. Los demás hitos son opcionales y están para profundizar alguna habilidad o explorar otras áreas.
+**Realizar el hito 1 es indispensable para considerar el proyecto como completado, los demás hitos son opcionales, ya que son para profundizar o explorar otras habilidades.**
 {% endhint %}
 
 Durante los diferentes avances, o al cierre del proyecto, debes presentar documentación que demuestre lo que hiciste de forma tangible y cumpliendo con los criterios de aceptación, los cuales existen para que puedas auto-evaluar tu progreso y validar si realmente alcanzaste el resultado deseado.
@@ -61,7 +68,9 @@ Durante los diferentes avances, o al cierre del proyecto, debes presentar docume
 
 <summary>Hito 1 (obligatorio)</summary>
 
-Para alcanzar este primer hito tendrás que comprender los diferentes elementos y propiedades de Figma, así como crear prototipos navegables en varios niveles de fidelidad.
+**Identificar el problema por resolver**
+
+Para definir el problema, debes realizar análisis de usabilidad y síntesis.
 
 **Criterios de aceptación:**
 
@@ -100,9 +109,9 @@ Ya tienes los diseños en tres tipos de dispositivos (desktop, tablet, mobile), 
 
 </details>
 
-
-
 ***
 
-**Esperamos que disfrutes mucho este proyecto y al finalizarlo te sientas lista para cualquier reto técnico que encuentres en tus procesos de reclutamiento o tu día a día como UX designer!** 💪
+**Este es el primero de varios proyectos donde haremos diseño de experiencia de usuarios, no se preocupen si no ven todo, tendremos otras oportunidades para aprender.**&#x20;
+
+**Muchos ánimos en este primer reto 💪🏽💛**
 

@@ -1,2 +1,0 @@
-# UpSkilling: profundización UI
-

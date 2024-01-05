@@ -1,2 +1,2 @@
-# 🔮 Magical landing
+# 🪂 Magical landing
 

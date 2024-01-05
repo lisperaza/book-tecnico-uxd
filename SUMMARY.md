@@ -24,13 +24,13 @@
 
 ## Otros proyectos
 
-* [Pre-admisión](otros-proyectos/pre-admision/README.md)
+* [🐣 Pre-admisión](otros-proyectos/pre-admision/README.md)
   * [🧞 Cómo podríamos...](otros-proyectos/pre-admision/como-podriamos....md)
-* [UpSkilling: profundización UI](otros-proyectos/upskilling-profundizacion-ui/README.md)
-  * [🥷 Figma ninja](otros-proyectos/upskilling-profundizacion-ui/figma-ninja/README.md)
-    * [Guía: Figma ninja](otros-proyectos/upskilling-profundizacion-ui/figma-ninja/guia-figma-ninja.md)
-  * [🦄 Design systems](otros-proyectos/upskilling-profundizacion-ui/design-systems/README.md)
-    * [Guía: Design systems](otros-proyectos/upskilling-profundizacion-ui/design-systems/guia-design-systems.md)
-* [UpSkilling: no-code](otros-proyectos/upskilling-no-code/README.md)
+* [🎨 UpSkilling UI](otros-proyectos/upskilling-ui/README.md)
+  * [🥷 Figma ninja](otros-proyectos/upskilling-ui/figma-ninja/README.md)
+    * [Guía: Figma ninja](otros-proyectos/upskilling-ui/figma-ninja/guia-figma-ninja.md)
+  * [🦄 Design systems](otros-proyectos/upskilling-ui/design-systems/README.md)
+    * [Guía: Design systems](otros-proyectos/upskilling-ui/design-systems/guia-design-systems.md)
+* [✨ UpSkilling No-code](otros-proyectos/upskilling-no-code/README.md)
   * [🤖 Hola mundo!](otros-proyectos/upskilling-no-code/hola-mundo.md)
-  * [🔮 Magical landing](otros-proyectos/upskilling-no-code/magical-landing.md)
+  * [🪂 Magical landing](otros-proyectos/upskilling-no-code/magical-landing.md)
