@@ -1,6 +1,6 @@
 # 🟣 Investigación de usuario
 
-<mark style="background-color:red;">Intro tbd</mark>
+Muchas veces necesitaremos acercarnos a las personas usuarias directamente para entender sus necesidades, metas y barreras al utilizar un producto. Sin embargo, no es la única manera de entender sus conductas, también podemos analizar sus acciones mediante herramientas y técnicas analíticas, así como comprender el contexto investigando otras fuentes secundarias.
 
 ### Planteamiento de la investigación
 

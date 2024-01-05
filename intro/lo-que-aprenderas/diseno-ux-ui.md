@@ -1,6 +1,6 @@
 # 🟡 Diseño UX/UI
 
-<mark style="background-color:red;">Intro TBD</mark>
+Esta es la fase más creativa de todo nuestro trabajo, acá es donde transformamos la información recolectada en propuestas. Recuerda siempre comenzar por el concepto, te ayudará mucho para avanzar con agilidad, así como a definir en cuáles partes de la experiencia enfocarte.
 
 ### Concepto de diseño
 

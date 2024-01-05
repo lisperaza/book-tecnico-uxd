@@ -2,8 +2,8 @@
 
 ## Intro
 
-* [👋 Bienvenida](README.md)
-* [💛 UXD en Laboratoria](intro/uxd-en-laboratoria.md)
+* [👋 Bienvenida - WIP](README.md)
+* [💛 UXD en Laboratoria - WIP](intro/uxd-en-laboratoria-wip.md)
 * [🎯 Lo que aprenderás](intro/lo-que-aprenderas.md)
   * [🔴 Definición de proyectos UX](intro/lo-que-aprenderas/definicion-de-proyectos-ux.md)
   * [🟣 Investigación de usuario](intro/lo-que-aprenderas/investigacion-de-usuario.md)
@@ -14,13 +14,13 @@
 ## Proyectos Bootcamp
 
 * [🕵♀ Design detectives](proyectos-bootcamp/design-detectives.md)
-* [🚀 Mindset MVP](proyectos-bootcamp/mindset-mvp.md)
-* [👩🔬 Design lab](proyectos-bootcamp/design-lab.md)
-* [✨ UXploradoras](proyectos-bootcamp/uxploradoras.md)
+* [🚀 Mindset MVP - WIP](proyectos-bootcamp/mindset-mvp-wip.md)
+* [👩🔬 Design lab - WIP](proyectos-bootcamp/design-lab-wip.md)
+* [✨ UXploradoras - WIP](proyectos-bootcamp/uxploradoras-wip.md)
 
 ## Contenido
 
-* [📚 Cómo usar este book?](contenido/como-usar-este-book.md)
+* [📚 Cómo usar este book? - WIP](contenido/como-usar-este-book-wip.md)
 
 ## Otros proyectos
 
