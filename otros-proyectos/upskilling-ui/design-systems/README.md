@@ -1,6 +1,6 @@
 # 🦄 Design systems
 
-Los sistemas de diseño nacieron para facilitar la colaboración entre múltiples diseñadores, o incluso, para hacer ser más eficiente en nuestro trabajo del día a día. Nos permiten estandarizar componentes y patrones, para así enfocarnos en las funcionalidades específicas de cada flujo o pantalla. Es muy importante que comprendas cómo diseñar utilizándolos.
+Los sistemas de diseño nacieron para facilitar la colaboración entre múltiples diseñadores, o incluso, para hacer ser más eficiente en nuestro trabajo del día a día. Nos permiten mantener la consistencia de los componentes y patrones a través de toda la plataforma, para así enfocarnos en las funcionalidades específicas de cada flujo o pantalla.
 
 <mark style="background-color:green;">**Tu misión será personalizar y aplicar Material Design a un sitio web de una organización o institución pública. Para ello debes elegir la plataforma web de tu elección y en la cual tengas acceso a flujos internos.**</mark>
 
@@ -24,13 +24,13 @@ Demo: TBD
 
 #### Objetivos de aprendizaje (OAs)
 
-<table><thead><tr><th width="63">⚪️</th><th width="227">Meta</th><th width="226">Objetivo de aprendizaje</th><th width="81" data-type="checkbox">Hito 1</th><th width="81" data-type="checkbox">Hito 2</th><th data-type="checkbox">Hito 3</th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f7e0">🟠</span></td><td><strong>Principios de diseño visual</strong></td><td>Crear paletas de color armónicas</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Definir espaciado de los elementos</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Elegir la(s) tipografía(s) adecuadas</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Definir características de los íconos</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td><strong>Concepto de diseño</strong></td><td>Buscar inspiración</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Idear soluciones</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Priorizar ideas</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td><strong>Diseño de interfaces</strong></td><td>Crear propuesta de diseño visual</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Utilizar principios de accesibilidad</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟢</td><td><strong>Prototipado</strong></td><td>Crear prototipos en alta fidelidad</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🔵</td><td><strong>Especificaciones de diseño</strong></td><td>Organizar documentos de Figma</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Documentar componentes</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🔵</td><td><strong>Sistemas y librerías de diseño</strong></td><td>Implementar Atomic Design</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Utilizar sistemas de diseño</td><td>false</td><td>false</td><td>false</td></tr></tbody></table>
+<table><thead><tr><th width="63">⚪️</th><th width="227">Meta</th><th width="226">Objetivo de aprendizaje</th><th width="81" data-type="checkbox">Hito 1</th><th width="81" data-type="checkbox">Hito 2</th><th data-type="checkbox">Hito 3</th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f7e0">🟠</span></td><td><strong>Principios de diseño visual</strong></td><td>Crear paletas de color armónicas</td><td>true</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Definir espaciado de los elementos</td><td>false</td><td>true</td><td>false</td></tr><tr><td></td><td></td><td>Elegir la(s) tipografía(s) adecuadas</td><td>true</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Definir características de los íconos</td><td>true</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td><strong>Concepto de diseño</strong></td><td>Buscar inspiración</td><td>true</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Idear soluciones</td><td>true</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Priorizar ideas</td><td>true</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td><strong>Diseño de interfaces</strong></td><td>Crear propuesta de diseño visual</td><td>true</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Utilizar principios de accesibilidad</td><td>true</td><td>false</td><td>false</td></tr><tr><td>🟢</td><td><strong>Prototipado</strong></td><td>Crear prototipos en alta fidelidad</td><td>false</td><td>false</td><td>true</td></tr><tr><td>🔵</td><td><strong>Especificaciones de diseño</strong></td><td>Organizar documentos de Figma</td><td>false</td><td>true</td><td>false</td></tr><tr><td></td><td></td><td>Documentar componentes</td><td>false</td><td>true</td><td>false</td></tr><tr><td>🔵</td><td><strong>Sistemas y librerías de diseño</strong></td><td>Implementar Atomic Design</td><td>false</td><td>true</td><td>false</td></tr><tr><td></td><td></td><td>Utilizar sistemas de diseño</td><td>false</td><td>true</td><td>false</td></tr></tbody></table>
 
 
 
 ## Consideraciones
 
-* Debes trabajar de forma individual o en duplas. Igualmente, puedes acercarte algunas de tus compañeras que están desarrollando el mismo proyecto y rebotar ideas, desbloquearte y compartir tus trucos.
+* Debes trabajar de forma individual o en duplas. Igualmente, puedes acercarte a tus compañeras que están desarrollando el mismo proyecto y rebotar ideas, desbloquearte y compartir tus descubrimientos.
 * Recuerda que algunas funcionalidades de Figma para manejo de librerías solo están disponibles bajo licencias pagas, así que no te desgastes tratando de implementar el sistema de diseño al pie de la letra. Cuando trabajes para una empresa lograrás explorar el tema a mayor profundidad.
 
 
@@ -47,15 +47,29 @@ Durante los diferentes avances, o al cierre del proyecto, debes presentar docume
 
 <summary>Hito 1 (obligatorio)</summary>
 
+El primer hito consiste en definir las bases del sistema de diseño para la plataforma web que hayas seleccionado.
 
+**Criterios de aceptación:**
+
+* _Moodboard_ de inspiración para definir la guía de marca.
+* Guía de marca donde se defina la paleta de colores primarios y secundarios, tipografía(s) e iconografía. Asegúrate de validar que los colores sean accesibles.
+* Inventario de componentes de la plataforma actual, es decir, un listado de los principales componentes y patrones. Por ejemplo, es posible que encuentres dos formas diferentes de seleccionar una fecha, mapea estas inconsistencias así como los elementos más utilizados en la plataforma.
+* Especificaciones de UI utilizando principios de Atomic Design, acá es donde implementarás la guía de marca en la interfaz visual.
 
 </details>
 
 <details>
 
-<summary>Hito 2 (opcional)</summary>
+<summary>Hito 2 (obligatorio)</summary>
 
+Una vez tengas claro el diseño visual que quieres darle a la plataforma, es hora de sistematizarlo e implementarlo.
 
+**Criterios de aceptación:**
+
+* Presentación donde expliques las principales diferencias entre un Sistema de Diseño y una librería, así como un breve resumen de los diferentes sistemas de diseño más utilizados en la industria en este momento.
+* Documento de Figma con la librería de componentes de Material Design, personalizado según lo que definiste en el hito anterior. Acuérdate de incluir la documentación de los componentes (casos de uso).
+* Rediseño de las principales pantallas de la plataforma, en la que puedas ejemplificar cómo se utilizaría el sistema de diseño.
+* Documento de Figma con capas y elementos organizados, utilizando una nomenclatura estándar. Por ejemplo: botón principal, botón secundario, dropdown, etc.&#x20;
 
 </details>
 
@@ -63,11 +77,15 @@ Durante los diferentes avances, o al cierre del proyecto, debes presentar docume
 
 <summary>Hito 3 (opcional)</summary>
 
+Ahora con todos los ingredientes listos puedes dedicarte a crear un prototipo donde pongas en práctica los diferentes elementos y componentes!
 
+**Criterios de aceptación:**
+
+* Prototipo navegable en alta fidelidad (texto real, imágenes, colores e íconos), incluyendo componentes reutilizables debidamente implementados desde la librería.
 
 </details>
 
 ***
 
-**Esperamos que disfrutes mucho este proyecto y al finalizarlo te sientas lista para cualquier reto técnico que encuentres en tus procesos de reclutamiento o tu día a día como UX designer! 💪**
+**Aprenderás mucho explorando aspectos más técnicos del diseño de productos digitales, esperamos que al finalizarlo te sientas más segura para ejercer como UX designer!** :unicorn:
 
