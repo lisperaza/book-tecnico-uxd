@@ -132,7 +132,7 @@ Durante el bootcamp irás desarrollando proyectos para fortalecer o construir tu
 * Tus aprendizajes personales, tanto técnicos como en habilidades para la vida
 
 {% hint style="warning" %}
-Esta documentación será indispensable para tu sesión de Project Feedback al cierre del proyecto. No te preocupes por hacerlo perfecto, es tu primer proyecto UX y seguirás iterándolo durante todo el Bootcamp. [Acá puedes encontrar una guía](https://laboratoria1.gitbook.io/job-search-preparation-ux-es/)[ →](https://laboratoria1.gitbook.io/job-search-preparation-ux-es/)
+Esta documentación será indispensable para tu sesión de Project Feedback al cierre del proyecto. No te preocupes por hacerlo perfecto, es tu primer proyecto UX y seguirás iterándolo durante todo el Bootcamp. [Acá puedes encontrar una guía →](https://laboratoria1.gitbook.io/job-search-preparation-ux-es/ruta-a-busqueda-de-vacantes/practica-simulacion-tech-mentor-a-1)
 {% endhint %}
 
 ***
