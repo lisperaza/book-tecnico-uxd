@@ -2,8 +2,7 @@
 
 ## Intro
 
-* [👋 Bienvenida - WIP](README.md)
-* [💛 UXD en Laboratoria - WIP](intro/uxd-en-laboratoria-wip.md)
+* [💛 UXD en Laboratoria - WIP](README.md)
 * [🎯 Lo que aprenderás](intro/lo-que-aprenderas.md)
   * [🔴 Definición de proyectos UX](intro/lo-que-aprenderas/definicion-de-proyectos-ux.md)
   * [🟣 Investigación de usuario](intro/lo-que-aprenderas/investigacion-de-usuario.md)

@@ -7,7 +7,7 @@ El trabajo colaborativo en UX requiere que seamos ordenadas en nuestros document
 | Objetivo de aprendizaje          | Descripción                                                                                                       |
 | -------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | Organizar documentos de Figma    | Organizar el documento de diseño (Figma) siguiendo buenas prácticas de nombrado y agrupado de capas o componentes |
-| Documentar casos de uso          | Documentar los estados de los componentes interactivos y sus casos de uso                                         |
+| Documentar componentes           | Documentar los estados de los componentes interactivos y sus casos de uso                                         |
 | Documentar el proyecto de diseño | Documentar el proceso de diseño para fundamentar las decisiones tomadas durante el proyecto                       |
 
 
