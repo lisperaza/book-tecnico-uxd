@@ -29,7 +29,7 @@ Esta es la fase más creativa de todo nuestro trabajo, acá es donde transformam
 | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Crear propuesta de diseño visual        | Definir las características de los elementos visuales del diseño (colores, tipografías, íconos, imágenes, espaciado)                       |
 | Utilizar principios de accesibilidad    | Asegurar que la propuesta cumpla con principios básicos de accesibilidad (perceptibilidad y operabilidad)                                  |
-| Implementar diseño responsivo           | Crear diseños que se adapten a diferentes dipositivos utilizando principios de responsive design                                           |
+| Implementar diseño responsivo           | Crear diseños independientes que se adapten a diferentes dispositivos, utilizando principios de responsive design                          |
 | Generar propuestas visuales mediante IA | Experimentar con herramientas de inteligencia artificial (IA) para generar múltiples propuestas que sirvan como inspiración para el diseño |
 
 
