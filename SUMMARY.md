@@ -25,9 +25,9 @@
 
 * [🐣 Pre-admisión - WIP](otros-proyectos/pre-admision-wip/README.md)
   * [🧞 Cómo podríamos...](otros-proyectos/pre-admision-wip/como-podriamos....md)
-* [🎨 UpSkilling UI](otros-proyectos/upskilling-ui/README.md)
-  * [🥷 Ninja del prototipado](otros-proyectos/upskilling-ui/ninja-del-prototipado.md)
-  * [🦄 Design systems](otros-proyectos/upskilling-ui/design-systems.md)
+* [🎨 UpSkilling: Profundización en UI](otros-proyectos/upskilling-profundizacion-en-ui/README.md)
+  * [🥷 Ninja del prototipado](otros-proyectos/upskilling-profundizacion-en-ui/ninja-del-prototipado.md)
+  * [🦄 Design systems](otros-proyectos/upskilling-profundizacion-en-ui/design-systems.md)
 * [✨ UpSkilling Low-code - WIP](otros-proyectos/upskilling-low-code-wip/README.md)
   * [🤖 Hola mundo!](otros-proyectos/upskilling-low-code-wip/hola-mundo.md)
   * [🪂 Magical landing](otros-proyectos/upskilling-low-code-wip/magical-landing.md)
