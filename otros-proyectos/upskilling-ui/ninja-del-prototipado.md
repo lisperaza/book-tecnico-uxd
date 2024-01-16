@@ -1,18 +1,13 @@
+---
+cover: ../../.gitbook/assets/6a45f2681ea14c83a1008c9696fc46d3.png
+coverY: 0
+---
+
 # 🥷 Ninja del prototipado
 
 Los prototipos son el medio de documentación principal de UX, es donde materializamos la propuesta de diseño y detallamos lo que está en nuestra imaginación. También son un mecanismo poderoso para comunicar y validar propuestas antes de invertir en su desarrollo. Es vital que te sientas cómoda realizándolos y domines a fondo Figma, principal herramienta de la industria de UX en este momento.
 
 <mark style="background-color:green;">**Tu misión será replicar una aplicación digital, tanto en su versión desktop, tablet y mobile. Para ello, debes elegir el app que prefieras, idealmente uno con gran calidad de diseño como AirBnB, Spotify o Netflix, así aprenderás de los mejores exponentes de la industria, sin embargo, la elección es libre.**</mark>
-
-{% hint style="success" %}
-**Fechas importantes**
-
-Inicio: TBD
-
-Design Critique: TBD
-
-Demo: TBD
-{% endhint %}
 
 
 
