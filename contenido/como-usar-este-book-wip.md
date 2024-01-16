@@ -1,2 +1,0 @@
-# 📚 Cómo usar este book?
-

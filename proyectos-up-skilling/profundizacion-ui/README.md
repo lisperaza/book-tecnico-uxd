@@ -1,4 +1,4 @@
-# 🎨 UpSkilling: Profundización en UI
+# 🎨 Profundización UI
 
 ## **Si el bootcamp de UXD fue tu primera experiencia como diseñadora, ¡Este programa es para ti! 🚀**
 

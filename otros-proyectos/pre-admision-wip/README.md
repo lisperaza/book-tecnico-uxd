@@ -1,2 +1,0 @@
-# 🐣 Pre-admisión
-

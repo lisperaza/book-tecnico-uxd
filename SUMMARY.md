@@ -17,17 +17,11 @@
 * [👩🔬 Design lab - WIP](proyectos-bootcamp/design-lab-wip.md)
 * [✨ UXploradoras - WIP](proyectos-bootcamp/uxploradoras-wip.md)
 
-## Contenido
+## Proyectos Up-skilling
 
-* [📚 Cómo usar este book? - WIP](contenido/como-usar-este-book-wip.md)
-
-## Otros proyectos
-
-* [🐣 Pre-admisión - WIP](otros-proyectos/pre-admision-wip/README.md)
-  * [🧞 Cómo podríamos...](otros-proyectos/pre-admision-wip/como-podriamos....md)
-* [🎨 Profundización en UI](otros-proyectos/profundizacion-en-ui/README.md)
-  * [🥷 Ninja del prototipado](otros-proyectos/profundizacion-en-ui/ninja-del-prototipado.md)
-  * [🦄 Design systems](otros-proyectos/profundizacion-en-ui/design-systems.md)
-* [✨ Low-code](otros-proyectos/low-code/README.md)
-  * [🤖 Hola mundo - WIP](otros-proyectos/low-code/hola-mundo-wip.md)
-  * [🪂 Magical landing - WIP](otros-proyectos/low-code/magical-landing-wip.md)
+* [🎨 Profundización UI](proyectos-up-skilling/profundizacion-ui/README.md)
+  * [🥷 Ninja del prototipado](proyectos-up-skilling/profundizacion-ui/ninja-del-prototipado.md)
+  * [🦄 Design systems](proyectos-up-skilling/profundizacion-ui/design-systems.md)
+* [✨ Low-code](proyectos-up-skilling/low-code/README.md)
+  * [🤖 Hola mundo - WIP](proyectos-up-skilling/low-code/hola-mundo-wip.md)
+  * [🪂 Magical landing - WIP](proyectos-up-skilling/low-code/magical-landing-wip.md)
