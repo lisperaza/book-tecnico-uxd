@@ -47,10 +47,10 @@ El primer hito consiste en definir las bases del sistema de diseño para la plat
 
 **Criterios de aceptación:**
 
-* _Moodboard_ de inspiración para definir la guía de marca.
-* Guía de marca donde se defina la paleta de colores primarios y secundarios, tipografía(s) e iconografía. Asegúrate de validar que los colores sean accesibles.
-* Inventario de componentes de la plataforma actual, es decir, un listado de los principales componentes y patrones. Por ejemplo, es posible que encuentres dos formas diferentes de seleccionar una fecha, mapea estas inconsistencias así como los elementos más utilizados en la plataforma.
-* Especificaciones de UI utilizando principios de Atomic Design, acá es donde implementarás la guía de marca en la interfaz visual.
+1. _Moodboard_ de inspiración para definir la guía de marca.
+2. Guía de marca donde se defina la paleta de colores primarios y secundarios, tipografía(s) e iconografía. Asegúrate de validar que los colores sean accesibles.
+3. Inventario de componentes de la plataforma actual, es decir, un listado de los principales componentes y patrones. Por ejemplo, es posible que encuentres dos formas diferentes de seleccionar una fecha, mapea estas inconsistencias así como los elementos más utilizados en la plataforma.
+4. Especificaciones de UI utilizando principios de Atomic Design, acá es donde implementarás la guía de marca en la interfaz visual.
 
 </details>
 
@@ -62,10 +62,10 @@ Una vez tengas claro el diseño visual que quieres darle a la plataforma, es hor
 
 **Criterios de aceptación:**
 
-* Presentación donde expliques las principales diferencias entre un Sistema de Diseño y una librería, así como un breve resumen de los diferentes sistemas de diseño más utilizados en la industria en este momento.
-* Documento de Figma con la librería de componentes de Material Design, personalizado según lo que definiste en el hito anterior. Acuérdate de incluir la documentación de los componentes (casos de uso).
-* Rediseño de las principales pantallas de la plataforma, en la que puedas ejemplificar cómo se utilizaría el sistema de diseño. Debes incluir una versión para cada dispositivo: mobile, tablet y desktop.
-* Documento de Figma con capas y elementos organizados, utilizando una nomenclatura estándar. Por ejemplo: botón principal, botón secundario, dropdown, etc.&#x20;
+1. Presentación donde expliques las principales diferencias entre un Sistema de Diseño y una librería, así como un breve resumen de los diferentes sistemas de diseño más utilizados en la industria en este momento.
+2. Documento de Figma con la librería de componentes de Material Design, personalizado según lo que definiste en el hito anterior. Acuérdate de incluir la documentación de los componentes (casos de uso).
+3. Rediseño de las principales pantallas de la plataforma, en la que puedas ejemplificar cómo se utilizaría el sistema de diseño. Debes incluir una versión para cada dispositivo: mobile, tablet y desktop.
+4. Documento de Figma con capas y elementos organizados, utilizando una nomenclatura estándar. Por ejemplo: botón principal, botón secundario, dropdown, etc.&#x20;
 
 </details>
 
@@ -77,8 +77,8 @@ Ahora con todos los ingredientes listos puedes dedicarte a crear un prototipo do
 
 **Criterios de aceptación:**
 
-* Prototipo navegable en alta fidelidad (texto real, imágenes, colores e íconos), incluyendo componentes reutilizables debidamente implementados desde la librería.
-* Incluye interacciones avanzadas como carruseles, menú colapsable y otros, pero toma en cuenta que es un prototipo y tiene ciertas limitaciones, por lo que nunca será una réplica exacta de un sitio o aplicación web.
+1. Prototipo navegable en alta fidelidad (texto real, imágenes, colores e íconos), incluyendo componentes reutilizables debidamente implementados desde la librería.
+2. Incluye interacciones avanzadas como carruseles, menú colapsable y otros, pero toma en cuenta que es un prototipo y tiene ciertas limitaciones, por lo que nunca será una réplica exacta de un sitio o aplicación web.
 
 </details>
 

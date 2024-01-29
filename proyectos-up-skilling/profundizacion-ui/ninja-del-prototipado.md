@@ -46,12 +46,12 @@ Para alcanzar este primer hito tendrás que comprender los diferentes elementos 
 
 **Criterios de aceptación:**
 
-* Presentación explicando los diferentes elementos dentro de los paneles de Figma, así como las propiedades de cada uno.
-* Un diagrama de flujo de usuario completo (happy-path) del app de tu preferencia. Un flujo se considera completo cuando permite a la persona usuaria realizar una tarea de principio a fin. Por ejemplo: comprar un producto, crear una cuenta, seleccionar un ítem como favorito, etc.
-* Prototipo navegable en fidelidad media (texto falso, imágenes dummy, sin colores), en su versión desktop, tablet y mobile. La navegación del prototipo debe ser similar a la navegación del app seleccionado.
-* Prototipo navegable en alta fidelidad (texto real, imágenes, colores e íconos), incluyendo componentes reutilizables debidamente organizados en la librería. Te recomendamos utilizar los principios de Atomic Design para organizar la librería.
-* Documento de Figma con capas y elementos organizados, utilizando una nomenclatura estándar. Por ejemplo: botón principal, botón secundario, dropdown, etc.
-* Video donde se muestre el paso a paso del flujo que seleccionaste, utilizando el prototipo de alta fidelidad en los 3 formatos solicitados (desktop, tablet, mobile).
+1. Presentación explicando los diferentes elementos dentro de los paneles de Figma, así como las propiedades de cada uno.
+2. Un diagrama de flujo de usuario completo (happy-path) del app de tu preferencia. Un flujo se considera completo cuando permite a la persona usuaria realizar una tarea de principio a fin. Por ejemplo: comprar un producto, crear una cuenta, seleccionar un ítem como favorito, etc.
+3. Prototipo navegable en fidelidad media (texto falso, imágenes dummy, sin colores), en su versión desktop, tablet y mobile. La navegación del prototipo debe ser similar a la navegación del app seleccionado.
+4. Prototipo navegable en alta fidelidad (texto real, imágenes, colores e íconos), incluyendo componentes reutilizables debidamente organizados en la librería. Te recomendamos utilizar los principios de Atomic Design para organizar la librería.
+5. Documento de Figma con capas y elementos organizados, utilizando una nomenclatura estándar. Por ejemplo: botón principal, botón secundario, dropdown, etc.
+6. Video donde se muestre el paso a paso del flujo que seleccionaste, utilizando el prototipo de alta fidelidad en los 3 formatos solicitados (desktop, tablet, mobile).
 
 </details>
 
@@ -63,8 +63,8 @@ Ahora que dominas los elementos básicos del prototipado, anímate a realizar in
 
 **Criterios de aceptación:**
 
-* Incluir al menos dos interacciones avanzadas dentro del prototipo de alta fidelidad. Deben funcionar sin errores y consistentemente.
-* Incluir una animación básica dentro del prototipo de alta fidelidad (transiciones, giros, fade-in, etc.)
+1. Incluir al menos dos interacciones avanzadas dentro del prototipo de alta fidelidad. Deben funcionar sin errores y consistentemente.
+2. Incluir una animación básica dentro del prototipo de alta fidelidad (transiciones, giros, fade-in, etc.)
 
 </details>
 
@@ -76,8 +76,8 @@ Ya tienes los diseños en tres tipos de dispositivos (desktop, tablet, mobile), 
 
 **Criterios de aceptación:**
 
-* Especificaciones de los breakpoints más comunes para desktop, tablet y mobile, incluyendo el layout utilizado por el app en cada tamaño.
-* Componentes re-utilizables en todas las vistas. Nota: algunas veces no es posible utilizar el mismo componente, si no que se reemplaza por otro totalmente diferente y será necesario que identifiques estas variantes en tus especificaciones para seguir un enfoque adaptativo.
+1. Especificaciones de los breakpoints más comunes para desktop, tablet y mobile, incluyendo el layout utilizado por el app en cada tamaño.
+2. Componentes re-utilizables en todas las vistas. Nota: algunas veces no es posible utilizar el mismo componente, si no que se reemplaza por otro totalmente diferente y será necesario que identifiques estas variantes en tus especificaciones para seguir un enfoque adaptativo.
 
 </details>
 

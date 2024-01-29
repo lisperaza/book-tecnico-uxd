@@ -13,7 +13,8 @@
 ## Proyectos Bootcamp
 
 * [🕵♀ Design detectives](proyectos-bootcamp/design-detectives.md)
-* [🚀 Mindset MVP - WIP](proyectos-bootcamp/mindset-mvp-wip.md)
+* [🚀 Mindset MVP](proyectos-bootcamp/mindset-mvp/README.md)
+  * [Empresas](proyectos-bootcamp/mindset-mvp/empresas.md)
 * [👩🔬 Design lab - WIP](proyectos-bootcamp/design-lab-wip.md)
 * [✨ UXploradoras - WIP](proyectos-bootcamp/uxploradoras-wip.md)
 
