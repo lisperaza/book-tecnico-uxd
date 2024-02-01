@@ -34,7 +34,7 @@ Los prototipos son el medio de documentación principal de UX, es donde material
 
 El proyecto está dividido en hitos, los cuales son como marcas de kilómetros en las carreteras, donde tú decides qué tan lejos quieres llegar. La decisión es solamente tuya y dependerá del tiempo que tengas disponible día a día, de tu ritmo de aprendizaje y de la profundidad que quieras alcanzar.
 
-<mark style="background-color:green;">**Realizar el hito 1 es indispensable para considerar el proyecto como completado. Los demás hitos son opcionales y están para profundizar alguna habilidad o explorar otras áreas.**</mark>
+<mark style="background-color:green;">**Realizar los hitos 1 y 2 es indispensable para considerar el proyecto como completado. Los demás hitos son opcionales y están para profundizar alguna habilidad o explorar otras áreas.**</mark>
 
 Durante los diferentes avances, o al cierre del proyecto, debes presentar documentación que demuestre lo que hiciste de forma tangible y cumpliendo con los criterios de aceptación, los cuales existen para que puedas auto-validar si realmente alcanzaste el resultado deseado.
 
@@ -42,22 +42,37 @@ Durante los diferentes avances, o al cierre del proyecto, debes presentar docume
 
 <summary>Hito 1 (obligatorio)</summary>
 
-Para alcanzar este primer hito tendrás que comprender los diferentes elementos y propiedades de Figma, así como crear prototipos navegables en varios niveles de fidelidad.
+Para alcanzar este primer hito tendrás que comprender los diferentes elementos y propiedades de Figma, así como crear flujos de usuario y un prototipo básico.
 
 **Criterios de aceptación:**
 
 1. Presentación explicando los diferentes elementos dentro de los paneles de Figma, así como las propiedades de cada uno.
 2. Un diagrama de flujo de usuario completo (happy-path) del app de tu preferencia. Un flujo se considera completo cuando permite a la persona usuaria realizar una tarea de principio a fin. Por ejemplo: comprar un producto, crear una cuenta, seleccionar un ítem como favorito, etc.
-3. Prototipo navegable en fidelidad media (texto falso, imágenes dummy, sin colores), en su versión desktop, tablet y mobile. La navegación del prototipo debe ser similar a la navegación del app seleccionado.
-4. Prototipo navegable en alta fidelidad (texto real, imágenes, colores e íconos), incluyendo componentes reutilizables debidamente organizados en la librería. Te recomendamos utilizar los principios de Atomic Design para organizar la librería.
-5. Documento de Figma con capas y elementos organizados, utilizando una nomenclatura estándar. Por ejemplo: botón principal, botón secundario, dropdown, etc.
-6. Video donde se muestre el paso a paso del flujo que seleccionaste, utilizando el prototipo de alta fidelidad en los 3 formatos solicitados (desktop, tablet, mobile).
+3. Prototipo navegable en fidelidad media\* (texto falso, imágenes dummy, sin colores), en su versión desktop, tablet y mobile. La navegación del prototipo debe ser similar a la navegación del app seleccionado.
+
+\*¿Por qué realizar un prototipo de fidelidad media? Los diferentes niveles de fidelidad nos permiten enfocar la atención en aspectos específicos del diseño. Un prototipo de fidelidad media sirve para entender la estructura del diseño (proporciones, espaciado, tipo de información, funciones y secuencia de acciones) sin distraernos con temas estéticos. Es especialmente relevante para entender la arquitectura de la información.
 
 </details>
 
 <details>
 
-<summary>Hito 2 (opcional)</summary>
+<summary>Hito 2 (obligatorio)</summary>
+
+Ahora que comprendes la estructura del sitio o aplicación que estás replicando, es momento de enfocarnos en elementos estéticos, interactivos y de accesibilidad.&#x20;
+
+**Criterios de aceptación:**
+
+1. Prototipo navegable en alta fidelidad (texto real, imágenes, colores e íconos), incluyendo componentes reutilizables debidamente organizados en la librería. Te recomendamos utilizar los principios de Atomic Design para organizar la librería.
+2. Documento de Figma con capas y elementos organizados, utilizando una nomenclatura estándar. Por ejemplo: botón principal, botón secundario, dropdown, etc.
+3. Video que muestre el paso a paso del flujo que seleccionaste, utilizando el prototipo de alta fidelidad en los 3 formatos solicitados (desktop, tablet, mobile).&#x20;
+
+Serás mucho más efectiva en tus tareas si organizaste el prototipo de mediana fidelidad en componentes, ya que en esta fase podrás reemplazarlos fácilmente 😉
+
+</details>
+
+<details>
+
+<summary>Hito 3 (opcional)</summary>
 
 Ahora que dominas los elementos básicos del prototipado, anímate a realizar interacciones más complejas como un carrusel de imágenes, menú colapsable, modales/pop-ups o carga dinámica de datos. Puedes utilizar algún plugin de Figma.
 
@@ -70,7 +85,7 @@ Ahora que dominas los elementos básicos del prototipado, anímate a realizar in
 
 <details>
 
-<summary>Hito 3 (opcional)</summary>
+<summary>Hito 4 (opcional)</summary>
 
 Ya tienes los diseños en tres tipos de dispositivos (desktop, tablet, mobile), lo cual es suficiente para considerar tu propuesta como responsive design, pero ¿podemos llevarlo al siguiente nivel? ¡claro que sí! El reto consiste en utilizar los mismos componentes de Figma para los 3 dispositivos, sin que nada se quiebre. ¿Aceptas el reto?
 

@@ -200,7 +200,7 @@ Durante el desarrollo del proyecto, las coaches estaremos compartiendo informaci
 
 #### Recursos y temas relacionados
 
-* Contenido sobre [entendimiento de negoci](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Entendimiento-del-negocio\_suJs1#\_luxCr)[o](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Entendimiento-del-negocio\_suJs1#\_luxCr)  →
+* Contenido sobre [entendimiento de negocio](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Entendimiento-del-negocio\_suJs1#\_luxCr)  →
 * Contenido recomendado de [investigación](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Investigacion\_suHhF#\_luX8A), [ideación](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Ideacion\_sumh5#\_luh0I) y [diseño](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Diseno-de-interfaces\_suOT7#\_luWsQ)  →
 * Contenido recomendado sobre [testeos con usuarios](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Testeos-con-usuarios\_suLAI#\_lu1kF)  →
 
