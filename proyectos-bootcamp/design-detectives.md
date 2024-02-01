@@ -135,6 +135,18 @@ Durante el bootcamp irás desarrollando proyectos para fortalecer o construir tu
 Esta documentación será indispensable para tu sesión de Project Feedback al cierre del proyecto. No te preocupes por hacerlo perfecto, es tu primer proyecto UX y seguirás iterándolo durante todo el Bootcamp. [Acá puedes encontrar una guía →](https://laboratoria1.gitbook.io/job-search-preparation-ux-es/ruta-a-busqueda-de-vacantes/practica-simulacion-tech-mentor-a-1)
 {% endhint %}
 
+
+
+## Pistas, tips y lecturas complementarias
+
+Estaremos compartiendo información adicional durante el reto del lado de coaches, por slack y en espacios síncronos que sean necesarios. Además, siéntanse libres de complementar con recursos que investiguen por su cuenta y compartirlo entre todas 🤓
+
+#### Recursos y temas relacionados
+
+* Contenido sobre [Principios de experiencia de usuario](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Principios-de-experiencia-de-usuario\_suhkR#\_luFVK) →
+* Contenido recomendado de [investigación](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Investigacion\_suHhF#\_luX8A), [ideación](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Ideacion\_sumh5#\_luh0I) y [diseño](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Diseno-de-interfaces\_suOT7#\_luWsQ) →
+* Sobre [Figma](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Uso-de-Figma\_suUrY#\_luqal), [prototipado](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Prototipado\_suXAI#\_lusmx) y [testeo](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Testeos-con-usuarios\_suLAI#\_lu1kF) →
+
 ***
 
 **Este es el primero de varios proyectos donde haremos diseño de experiencia de usuarios, no se preocupen si no ven todo, tendremos otras oportunidades para aprender.**&#x20;
