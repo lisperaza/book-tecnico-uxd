@@ -103,7 +103,7 @@ Plataforma para invertir, dar seguimiento y compartir su portafolio y calcular g
 Diseño de un perfil personal de usuarios inversionistas que le permitan opciones para seleccionar qué datos desean compartir, como rendimientos de inversión, carteras actuales, y análisis de mercado. Como un perfil social para mostrar y a su vez ver de otros inversionistas\
 Recursos:
 
-* Link al [pitch](https://drive.google.com/drive/folders/1cWDJe3EEpVOOKeFbMaBldqWWY8-Jaqzy) →
+* Link al [pitch](https://drive.google.com/file/d/1737LJG0-36T5tUc324MNc5ofzt8Ss6Ds/view?usp=drive\_link) →
 * Link al [Brief del proyecto](https://docs.google.com/document/d/1KbwWORNkU9RU8ovsB3jFNZIm03-RQuGMoLTvQhASC98/edit) →
 * Link a la [carpeta de la empresa](https://drive.google.com/drive/folders/1cWDJe3EEpVOOKeFbMaBldqWWY8-Jaqzy) →
 
