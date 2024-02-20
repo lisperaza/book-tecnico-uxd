@@ -24,5 +24,5 @@
   * [🥷 Ninja del prototipado](proyectos-up-skilling/profundizacion-ui/ninja-del-prototipado.md)
   * [🦄 Design systems](proyectos-up-skilling/profundizacion-ui/design-systems.md)
 * [✨ Low-code](proyectos-up-skilling/low-code/README.md)
-  * [🤖 Hola mundo - WIP](proyectos-up-skilling/low-code/hola-mundo-wip.md)
-  * [🪂 Magical landing - WIP](proyectos-up-skilling/low-code/magical-landing-wip.md)
+  * [👑 Taylor Nation - WIP](proyectos-up-skilling/low-code/taylor-nation-wip.md)
+  * [🛍 Shopper - WIP](proyectos-up-skilling/low-code/shopper-wip.md)

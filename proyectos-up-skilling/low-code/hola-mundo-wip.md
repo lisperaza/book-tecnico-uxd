@@ -1,2 +1,0 @@
-# 🤖 Hola mundo - WIP
-
