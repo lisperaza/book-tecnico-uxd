@@ -17,7 +17,7 @@ Los sistemas de diseño nacieron para facilitar la colaboración entre múltiple
 * Comprenderás la diferencia entre librerías y sistemas de diseño, así como descubrir los principales Sistemas de Diseño existentes.
 * La mayoría de Objetivos de Aprendizaje ya los abarcamos durante el bootcamp, sin embargo hemos agregado algunos relacionados con diseño visual.
 
-#### Objetivos de aprendizaje (OAs)
+#### Metas de aprendizaje
 
 <table><thead><tr><th width="76">⚪️</th><th width="274">Meta</th><th data-type="checkbox">Hito 1</th><th data-type="checkbox">Hito 2</th><th data-type="checkbox">Hito 3</th><th data-type="checkbox">Hito 4</th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f7e0">🟠</span></td><td><strong>Principios de diseño visual</strong></td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td><strong>Concepto de diseño</strong></td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td><strong>Diseño de interfaces</strong></td><td>false</td><td>true</td><td>true</td><td>false</td></tr><tr><td>🟢</td><td><strong>Prototipado</strong></td><td>false</td><td>false</td><td>false</td><td>true</td></tr><tr><td>🔵</td><td><strong>Especificaciones de diseño</strong></td><td>false</td><td>true</td><td>true</td><td>false</td></tr><tr><td>🔵</td><td><strong>Sistemas y librerías de diseño</strong></td><td>false</td><td>true</td><td>true</td><td>false</td></tr></tbody></table>
 
