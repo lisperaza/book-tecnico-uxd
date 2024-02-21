@@ -86,18 +86,17 @@ Ahora es momento de sistematizar todo lo anteriormente diseñado e implementarlo
 **Criterios de aceptación:**
 
 1. Crea una presentación donde expliques las principales diferencias entre un Sistema de Diseño y una librería, que incluya un breve resumen de los diferentes sistemas de diseño más utilizados en la industria en este momento.
-2. Descarga la librería de componentes de Material Design y p rsoeagún lo que definiste en el hito anterior. Acuérdate de incluir la documentación de los componentes (casos de uso).
+2. Descarga la librería de componentes de Material Design y personalízala lo máximo posible para que adapte a lo que diseñaste en los pasos anteriores.
+3. Rediseña 3 pantallas principales de la plataforma de referencia, en las que puedas ejemplificar como se utilizaría el sistema de diseño.&#x20;
+4. Desarrolla la versión para mobile y tablet de las 3 pantallas que elegiste.
 
-<!---->
-
-1. Rediseño de las principales pantallas de la plataforma, en la que puedas ejemplificar cómo se utilizaría el sistema de diseño. Debes incluir una versión para cada dispositivo: mobile, tablet y desktop.
-2. Documento de Figma con capas y elementos organizados, utilizando una nomenclatura estándar. Por ejemplo: botón principal, botón secundario, dropdown, etc.&#x20;
+**En este hito te darás cuenta que NO es posible personalizar al 100% el sistema seleccionado, sino que más bien debes adaptar tu diseño a los estándares de Material Design. Cambia tu diseño según consideres necesario.**
 
 </details>
 
 <details>
 
-<summary>Hito 3 (opcional)</summary>
+<summary>Hito 4 (opcional)</summary>
 
 Ahora con todos los ingredientes listos puedes dedicarte a crear un prototipo donde pongas en práctica los diferentes elementos y componentes!
 
