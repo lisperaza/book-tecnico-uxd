@@ -5,9 +5,9 @@ coverY: 0
 
 # 🦄 Design systems
 
-Los sistemas de diseño nacieron para facilitar la colaboración entre múltiples diseñadores, o incluso, para hacer ser más eficiente en nuestro trabajo del día a día. Nos permiten mantener la consistencia de los componentes y patrones a través de toda la plataforma, para así enfocarnos en las funcionalidades específicas de cada flujo o pantalla.
+Los sistemas de diseño nacieron para facilitar la colaboración entre múltiples diseñadores, o incluso, para ser más eficientes en nuestro trabajo del día a día. Nos permiten mantener la consistencia de los componentes y patrones a través de toda la plataforma, para así enfocarnos en las funcionalidades específicas de cada flujo o pantalla.
 
-<mark style="background-color:green;">**Tu misión será personalizar y aplicar Material Design a un sitio web de una organización o institución pública. Para ello debes elegir la plataforma web de tu elección y en la cual tengas acceso a flujos internos.**</mark>
+<mark style="background-color:green;">**Tu misión será personalizar y aplicar Material Design a un sitio web de una organización o institución pública. Para ello debes elegir una plataforma web de referencia, en la cual tengas acceso a flujos internos.**</mark>
 
 
 
@@ -25,7 +25,7 @@ Los sistemas de diseño nacieron para facilitar la colaboración entre múltiple
 
 ## Consideraciones
 
-* Debes trabajar de forma individual o en duplas. Igualmente, puedes acercarte a tus compañeras que están desarrollando el mismo proyecto y rebotar ideas, desbloquearte y compartir tus descubrimientos.
+* Debes trabajar de forma individual o en duplas. Igualmente, puedes acercarte a tus compañeras que están desarrollando el mismo proyecto para rebotar ideas, desbloquearte y compartir tus descubrimientos.
 * Queremos que te enfoques en los aspectos visuales del diseño, por lo que no hemos agregado tareas de investigación de usuario ni de validación de usabilidad. Utiliza el proyecto como un campo de experimentación visual y deja volar tu creatividad.
 * Recuerda que algunas funcionalidades de Figma para manejo de librerías solo están disponibles bajo licencias pagas, así que no te desgastes tratando de implementar el sistema de diseño al pie de la letra. Cuando trabajes para una empresa lograrás explorar el tema a mayor profundidad.
 
@@ -35,22 +35,30 @@ Los sistemas de diseño nacieron para facilitar la colaboración entre múltiple
 
 El proyecto está dividido en hitos, los cuales son como marcas de kilómetros en las carreteras, donde tú decides qué tan lejos quieres llegar. La decisión es solamente tuya y dependerá del tiempo que tengas disponible día a día, de tu ritmo de aprendizaje y de la profundidad que quieras alcanzar.
 
-<mark style="background-color:green;">**Realizar el hito 1 y 2 es indispensable para considerar el proyecto como completado, los demás hitos son opcionales, ya que son para profundizar o explorar otras habilidades.**</mark>
+<mark style="background-color:green;">**Realizar los hitos obligatorios es indispensable para considerar el proyecto como completado, los hitos opcionales son para profundizar o explorar otras habilidades adicionales.**</mark>
 
 Durante los diferentes avances, o al cierre del proyecto, debes presentar documentación que demuestre lo que hiciste de forma tangible y cumpliendo con los criterios de aceptación, los cuales existen para que puedas auto-validar si realmente alcanzaste el resultado deseado.
+
+{% hint style="info" %}
+El orden de los hitos es intencional, desarróllalos en el orden propuesto ya que te ayudará a resolver el proyecto de una mejor manera.
+{% endhint %}
 
 <details>
 
 <summary>Hito 1 (obligatorio)</summary>
 
-El primer hito consiste en definir las bases del sistema de diseño para la plataforma web que hayas seleccionado.
+Primero vamos a definir las bases visuales que utilizarás en el rediseño de la plataforma de referencia.
 
 **Criterios de aceptación:**
 
-1. _Moodboard_ de inspiración para definir la guía de marca.
-2. Guía de marca donde se defina la paleta de colores primarios y secundarios, tipografía(s) e iconografía. Asegúrate de validar que los colores sean accesibles.
-3. Inventario de componentes de la plataforma actual, es decir, un listado de los principales componentes y patrones. Por ejemplo, es posible que encuentres dos formas diferentes de seleccionar una fecha, mapea estas inconsistencias así como los elementos más utilizados en la plataforma.
-4. Especificaciones de UI utilizando principios de Atomic Design, acá es donde implementarás la guía de marca en la interfaz visual.
+1. Elige una plataforma que tenga amplias oportunidades de mejora en su diseño visual, así será más evidente el antes vs el después.
+2. Crea un moodboard de inspiración visual para guiar el rediseño de marca que vas a proponer. _Nota: no es un benchmark, es 100% inspiración visual._
+3. Selecciona la tipografía(s) que utilizarás para títulos y párrafos.
+4. Define la paleta de colores primarios y secundarios que utilizarás en el rediseño. _Nota: Valida que los colores sean accesibles, pero no te desgastes logrando el nivel AAA, con AA es suficiente._
+5. Define la iconografía que consideres más adecuada para tu rediseño.
+6. Genera una "guía de marca" que incluya todos los elementos anteriores. Debe ser más similar a un brand book que a un UI Kit, ya que otras áreas de la empresa van a utilizar esta guía.
+
+**Experimenta con el rediseño de UNA sola pantalla. Esta se convertirá en tu "key visual" con la que guiarás tu propuesta.**
 
 </details>
 
@@ -58,14 +66,32 @@ El primer hito consiste en definir las bases del sistema de diseño para la plat
 
 <summary>Hito 2 (obligatorio)</summary>
 
-Una vez tengas claro el diseño visual que quieres darle a la plataforma, es hora de sistematizarlo e implementarlo.
+Una vez definido el concepto visual de la marca, es necesario mapear el estado actual de la plataforma de referencia, para identificar todos los elementos y componentes principales.
 
 **Criterios de aceptación:**
 
-1. Presentación donde expliques las principales diferencias entre un Sistema de Diseño y una librería, así como un breve resumen de los diferentes sistemas de diseño más utilizados en la industria en este momento.
-2. Documento de Figma con la librería de componentes de Material Design, personalizado según lo que definiste en el hito anterior. Acuérdate de incluir la documentación de los componentes (casos de uso).
-3. Rediseño de las principales pantallas de la plataforma, en la que puedas ejemplificar cómo se utilizaría el sistema de diseño. Debes incluir una versión para cada dispositivo: mobile, tablet y desktop.
-4. Documento de Figma con capas y elementos organizados, utilizando una nomenclatura estándar. Por ejemplo: botón principal, botón secundario, dropdown, etc.&#x20;
+1. Crea un inventario visual de los principales componentes y patrones de la plataforma de referencia. _Por ejemplo, es posible que encuentres dos formas diferentes de seleccionar una fecha, mapea estas inconsistencias así como los elementos más utilizados en la plataforma._
+2. Define los diferentes elementos de espaciado para UI (grid, layout, spacer, etc.).&#x20;
+3. Rediseña los elementos, componentes y patrones mapeados aplicando la "guía de marca" desarrollaste.
+4. Documenta estos componentes utilizando el modelo de Atomic Design. Puedes crear un UI Kit o utilizar Notion por ejemplo.
+
+</details>
+
+<details>
+
+<summary>Hito 3 (obligatorio)</summary>
+
+Ahora es momento de sistematizar todo lo anteriormente diseñado e implementarlo.
+
+**Criterios de aceptación:**
+
+1. Crea una presentación donde expliques las principales diferencias entre un Sistema de Diseño y una librería, que incluya un breve resumen de los diferentes sistemas de diseño más utilizados en la industria en este momento.
+2. Descarga la librería de componentes de Material Design y p rsoeagún lo que definiste en el hito anterior. Acuérdate de incluir la documentación de los componentes (casos de uso).
+
+<!---->
+
+1. Rediseño de las principales pantallas de la plataforma, en la que puedas ejemplificar cómo se utilizaría el sistema de diseño. Debes incluir una versión para cada dispositivo: mobile, tablet y desktop.
+2. Documento de Figma con capas y elementos organizados, utilizando una nomenclatura estándar. Por ejemplo: botón principal, botón secundario, dropdown, etc.&#x20;
 
 </details>
 
