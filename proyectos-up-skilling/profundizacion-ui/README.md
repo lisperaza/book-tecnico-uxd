@@ -10,14 +10,10 @@ Durante el bootcamp, abarcamos el perfil completo para ejercer como diseñadora 
 * Para dominar Figma aún más y profundizar en el uso de librerías y sistemas de diseño;
 * Tendrás aún más material para mostrar en tu portafolio!
 
-
-
 ### Aprendizajes esperados
 
-* Aprenderás sobre principios de diseño visual - color, tipografía, iconografía, composición - para transferirlas al diseño de interfaces;
-* Profundizarás en Sistemas de Diseño y prototipado, para que te domines un poco más Figma y puedas ser más eficiente en tu rol como UX Designer.
-
-
+* **Proyecto 1:** En el primero proyecto te concentrarás en dominar Figma como herramienta principal de prototipado, aprenderás a dominar los componentes, organización de capas y elementos, así como interacciones avanzadas.
+* **Proyecto 2:** En este segundo proyecto profundizarás en principios de diseño visual (color, composición, tipografía, iconografía) y cómo aplicarlos a interfaces visuales, comprenderás la diferencia entre librerías y sistemas de diseño, así como descubrir los principales Sistemas de Diseño existentes.
 
 ### Requisitos técnicos
 
@@ -32,3 +28,7 @@ Si has recibido constantemente feedback positivo sobre tus diseños, te invitamo
 
 Recuerda que tendremos otros programas de Upskilling que podrían aportar más a tu perfil 😉 Utiliza tu tiempo de forma estratégica!
 {% endhint %}
+
+***
+
+### Aprovecha para fortalecer esas áreas de diseño visual que en las que aún te sientes un poco incómoda y termina de consolidar tu perfil profesional!

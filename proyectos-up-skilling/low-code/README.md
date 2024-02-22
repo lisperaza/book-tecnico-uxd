@@ -10,19 +10,14 @@ Como diseñadoras, es importante comprender la materia prima sobre la cual funci
 * Es una habilidad valorada en equipos muy pequeños donde los roles entre UX y Software se traslapan un poco más;
 * Podría abrirte puertas en roles cercanos a mercadeo, donde es necesario implementar landing pages básicas y personalizar plataformas de e-commerce.
 
-
-
 ### Aprendizajes esperados
 
-* Aprenderás sobre principios de HTML y CSS, así como los conceptos más comunes en el maquetado de interfaces visuales;
-* Explorarás Framer y Shopify, plataformas utilizadas para crear e-commerce y landing pages sin necesidad de programar o utilizando el mínimo de código posible.
-
-
+* **Proyecto 1:** Explorarás Framer, una herramienta que te permitirá aprender principios de HTML y CSS, así como los conceptos más comunes en el maquetado de interfaces visuales, sin necesidad de que programes directamente.&#x20;
+* **Proyecto 2:** Vamos a replicar una tienda digital, desde su landing page hasta el carrito de compra. Para este proyecto utilizaremos Shopify Partners, una plataforma que permite crear y gestionar un e-commerce utilizando el mínimo de código posible.
 
 ### Requisitos técnicos
 
 * Ser egresada de bootcamp de UX Design
-* Alta tolerancia a la frustración
 
 ***
 
