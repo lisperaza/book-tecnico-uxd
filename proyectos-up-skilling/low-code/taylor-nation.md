@@ -5,9 +5,6 @@ coverY: 80
 
 # 👑 Taylor nation
 
-
-
-\
 Como UX Designers es muy útil comprender los fundamentos de HTML y CSS, así podrás comunicarte mejor con los equipos de desarrollo de Sotfware, dimensionar la complejidad técnica de tus diseños y desarrollar la documentación adecuada para implementación (technical hand-off). En este proyecto, aprenderás de forma dinámica, utilizando una herramienta que une el mundo visual con el código de forma intuitiva.
 
 <mark style="background-color:green;">**Utilizando la herramienta Framer, tu misión será replicar el landing page y una página de descripción de producto del website de Taylor Swift. Debes reproducir la versión desktop, tablet y mobile.**</mark>
