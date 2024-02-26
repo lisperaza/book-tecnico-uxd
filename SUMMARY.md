@@ -12,11 +12,11 @@
 
 ## Proyectos Bootcamp
 
-* [🕵♀ Design detectives](proyectos-bootcamp/design-detectives.md)
+* [🕵️‍♀️ Design detectives](proyectos-bootcamp/design-detectives.md)
 * [🚀 Mindset MVP](proyectos-bootcamp/mindset-mvp/README.md)
   * [Empresas](proyectos-bootcamp/mindset-mvp/empresas.md)
 * [✨ UXploradoras - WIP](proyectos-bootcamp/uxploradoras-wip.md)
-* [👩🔬 Design lab - WIP](proyectos-bootcamp/design-lab-wip.md)
+* [👩‍🔬 Design lab - WIP](proyectos-bootcamp/design-lab-wip.md)
 
 ## Proyectos Up-skilling
 
@@ -24,5 +24,5 @@
   * [🥷 Ninja del prototipado](proyectos-up-skilling/profundizacion-ui/ninja-del-prototipado.md)
   * [🦄 Design systems](proyectos-up-skilling/profundizacion-ui/design-systems.md)
 * [✨ Low-code](proyectos-up-skilling/low-code/README.md)
-  * [👑 Taylor Nation - WIP](proyectos-up-skilling/low-code/taylor-nation-wip.md)
-  * [🛍 Shopper - WIP](proyectos-up-skilling/low-code/shopper-wip.md)
+  * [👑 Taylor Nation](proyectos-up-skilling/low-code/taylor-nation.md)
+  * [🛍️ Shopper - WIP](proyectos-up-skilling/low-code/shopper-wip.md)

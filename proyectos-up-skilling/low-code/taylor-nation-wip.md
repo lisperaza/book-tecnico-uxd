@@ -1,2 +1,0 @@
-# 👑 Taylor Nation - WIP
-
