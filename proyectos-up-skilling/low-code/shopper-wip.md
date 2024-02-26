@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/CPeQyaCBtPwCEAE=.webp
+coverY: 111
+---
+
 # 🛍️ Shopper
 
 Las plataformas de e-commerce han facilitado las ventas tanto a pequeñas y grandes empresas, dándoles muchas ventajas tecnológicas tanto en sus operaciones diarias como en la experiencia de uso de sus consumidores, así como ayudándoles a posicionarse en el mercado de forma digital. Con herramientas de no-code o low-code podrás crear y personalizar sus tiendas en línea para reflejar su identidad de marca y analizar acciones de usuario para comprender cómo utilizan la plataforma las personas usuarias.

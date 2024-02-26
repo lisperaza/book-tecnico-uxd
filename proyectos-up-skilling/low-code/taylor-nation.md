@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/202307x_swift_1407_AP23198726852529 (1).webp
-coverY: 180.9391304347826
+cover: ../../.gitbook/assets/5a238785-2cd2-433f-8411-43f8043ea87a.avif
+coverY: 80
 ---
 
 # 👑 Taylor nation
