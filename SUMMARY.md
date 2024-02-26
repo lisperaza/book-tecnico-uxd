@@ -12,7 +12,7 @@
 
 ## Proyectos Bootcamp
 
-* [🕵️‍♀️ Design detectives](proyectos-bootcamp/design-detectives.md)
+* [🔎 Design detectives](proyectos-bootcamp/design-detectives.md)
 * [🚀 Mindset MVP](proyectos-bootcamp/mindset-mvp/README.md)
   * [Empresas](proyectos-bootcamp/mindset-mvp/empresas.md)
 * [🌈 UXploradoras](proyectos-bootcamp/uxploradoras.md)
