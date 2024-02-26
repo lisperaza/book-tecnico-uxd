@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/CPeQyaCBtPwCEAE=.webp
-coverY: 111
+coverY: 192.84347826086957
 ---
 
 # 🛍️ Shopper

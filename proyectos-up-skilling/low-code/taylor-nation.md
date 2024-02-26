@@ -1,6 +1,6 @@
 ---
 cover: ../../.gitbook/assets/5a238785-2cd2-433f-8411-43f8043ea87a.avif
-coverY: 80
+coverY: 141.38260869565215
 ---
 
 # 👑 Taylor nation
