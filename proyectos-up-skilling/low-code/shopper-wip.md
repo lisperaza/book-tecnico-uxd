@@ -98,7 +98,7 @@ En construcción :woman\_construction\_worker:&#x20;
 
 <details>
 
-<summary>Hito 7 (opcional)</summary>
+<summary>Hito 8 (opcional)</summary>
 
 En construcción :woman\_construction\_worker:&#x20;
 
@@ -107,3 +107,4 @@ En construcción :woman\_construction\_worker:&#x20;
 ***
 
 &#x20;**Con herramientas low-code, puedes explotar muchísimo tus habilidades como UX designer y llevarlas un paso más allá! creando productos digitales de cero a cien** :rocket:
+

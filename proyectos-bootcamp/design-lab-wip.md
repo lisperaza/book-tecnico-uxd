@@ -1,2 +1,2 @@
-# 👩🔬 Design lab
+# 💡 Design lab - WIP
 

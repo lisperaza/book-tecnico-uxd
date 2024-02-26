@@ -1,4 +1,4 @@
-# 🕵♀ Design detectives
+# 🕵️‍♀️ Design detectives
 
 En nuestra carrera profesional como diseñadoras UX, muchas veces nos uniremos a empresas con **productos existentes**, que requieren mejoras continuas para satisfacer las necesidades de las personas usuarias y alcanzar las metas del negocio.&#x20;
 
@@ -10,6 +10,8 @@ Antes de plantear cambios, debemos conocer los problemas que enfrentan nuestras 
 **Fechas importantes**
 
 Inicio: Miércoles 10 enero
+
+Formación de equipos: Jueves 11 de enero
 
 Design Critique: Miércoles 17 y 24 de enero
 
@@ -64,7 +66,7 @@ Evita plataformas reconocidas por su buen diseño, ya que será difícil realiza
 
 El proyecto está dividido en hitos, los cuales son como marcas de kilómetros en las carreteras, donde tú decides qué tan lejos quieres llegar. La decisión es tuya y dependerá del tiempo que tengas disponible día a día, de tu ritmo de aprendizaje y de la profundidad que quieras alcanzar.&#x20;
 
-<mark style="background-color:green;">**Realizar el hito 1 y 2 es indispensable para considerar el proyecto como completado, los demás hitos son opcionales, ya que son para profundizar o explorar otras habilidades.**</mark>
+<mark style="background-color:green;">**Realizar los hitos obligatorios es indispensable para considerar el proyecto como completado, los demás hitos son opcionales, ya que son para profundizar o explorar otras habilidades.**</mark>
 
 Durante los diferentes avances, o al cierre del proyecto, debes presentar documentación que demuestre lo que hiciste de forma tangible y cumpliendo con los criterios de aceptación, los cuales existen para que puedas auto-validar si realmente alcanzaste el resultado deseado.
 
