@@ -25,4 +25,4 @@
   * [🦄 Design systems](proyectos-up-skilling/profundizacion-ui/design-systems.md)
 * [✨ Low-code](proyectos-up-skilling/low-code/README.md)
   * [👑 Taylor nation](proyectos-up-skilling/low-code/taylor-nation.md)
-  * [🛍️ Shopper](proyectos-up-skilling/low-code/shopper.md)
+  * [🛍️ Shopper](proyectos-up-skilling/low-code/shopper-wip.md)

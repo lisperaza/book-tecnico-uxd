@@ -15,7 +15,6 @@ Las plataformas de e-commerce han facilitado las ventas tanto a pequeñas y gran
 
 * Debes trabajar en dupla con una compañera. Además, te invitamos a mostrar avances a los otros equipos para rebotar ideas, desbloquearte y compartir descubrimientos.
 * Concéntrate en la herramienta y el contenido escrito, NO es necesario ni recomendable que propongas cambios en el diseño.&#x20;
-* Trata de replicar tanto como sea posible, sin embargo, hay detalles que no quedarán 100% idénticos. Esto pasa también en nuestra profesión, cuando nos damos cuenta que debemos ajustar el diseño a las posibilidades técnicas y no al contrario.
 * Identifica cuáles elementos requieren personalización mediante cambios en el código de la plantilla y comunícalo. Lo importante es aprender a diferenciar hasta dónde llega la herramienta y hasta dónde se requiere trabajo un poco más profundo para el cual necesitas apoyo de desarrolladoras de software.
 
 
