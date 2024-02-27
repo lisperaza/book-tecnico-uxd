@@ -192,10 +192,10 @@ Durante el desarrollo del proyecto, las coaches estaremos compartiendo informaci
 
 #### Recursos y temas relacionados
 
-* Contenido sobre [arquitectura de información](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Arquitectura-de-la-informacion\_suNmQ#\_luq24)
-* Contenido sobre [UI Kit](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/UI-kit-y-sistema-de-diseno\_suIXG#\_luzb-) y [accesibilidad](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Accesibilidad\_suKsx#\_luenB)
-* Contenido sobre [pruebas de usabilidad](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Testeos-con-usuarios\_suLAI#\_lu1kF) y [métricas de UX](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Metricas-de-UX\_suhXY#\_lu8O8)
-* Contenido sobre [voz y tono aplicado a UX](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Ux-Writing-Ux-Content\_sucf6#\_lunFr)
+* Contenido sobre [arquitectura de información](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Arquitectura-de-la-informacion\_suNmQ#\_luq24) →
+* Contenido sobre [UI Kit](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/UI-kit-y-sistema-de-diseno\_suIXG#\_luzb-) y [accesibilidad](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Accesibilidad\_suKsx#\_luenB) →
+* Contenido sobre [pruebas de usabilidad](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Testeos-con-usuarios\_suLAI#\_lu1kF) y [métricas de UX](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Metricas-de-UX\_suhXY#\_lu8O8) →
+* Contenido sobre [voz y tono aplicado a UX](https://coda.io/d/Bootcamp-UX-Contenido\_dqkqk2rV9Z2/Ux-Writing-Ux-Content\_sucf6#\_lunFr) →
 
 #### Preguntas detonadoras
 

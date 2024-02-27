@@ -78,9 +78,9 @@ El primer hito consiste en identificar el problema por resolver, para esto debes
 
 **Criterios de aceptación:**
 
-* Reporte del análisis heurístico realizado
-* Plan de investigación o testeo de usabilidad
-* Reporte de resultados de la investigación, identificando y priorizando los principales problemas o necesidades descubiertas
+1. Reporte del análisis heurístico realizado
+2. Plan de investigación o testeo de usabilidad
+3. Reporte de resultados de la investigación, identificando y priorizando los principales problemas o necesidades descubiertas
 
 Toma en cuenta que debe ser una mejora viable para resolver en el tiempo disponible del proyecto.
 
@@ -94,12 +94,12 @@ Con base en lo descubierto durante el hito 1, ahora necesitarás crear una propu
 
 **Criterios de aceptación:**
 
-* Flujo(s) de usuario que expliquen la propuesta
-* Múltiples ideas de solución y matriz de priorización
-* Prototipo en mediana fidelidad que explique las mejoras propuestas
-* Prototipo en alta fidelidad con navegación básica (cambio de pantallas)
-* Resultado de los testeos de validación de la propuesta
-* Archivos de Figma organizados, donde las capas y elementos tienen nombres claros
+1. Flujo(s) de usuario que expliquen la propuesta
+2. Múltiples ideas de solución y matriz de priorización
+3. Prototipo en mediana fidelidad que explique las mejoras propuestas
+4. Prototipo en alta fidelidad con navegación básica (cambio de pantallas)
+5. Resultado de los testeos de validación de la propuesta
+6. Archivos de Figma organizados, donde las capas y elementos tienen nombres claros
 
 Recuerda utilizar los elementos visuales (logotipo, colores primarios, iconos, tipografías, etc.) existentes. En algunas ocaciones, necesitarás proponer cambios en dichos elementos para mejorar la usabilidad, siempre respetando la identidad de la marca.
 
@@ -113,8 +113,8 @@ En caso de que lo consideres posible y necesario, puedes realizar estas tareas a
 
 **Criterios de aceptación:**
 
-* Análisis de competidores (benchmark) que te permita identificar fortalezas y debilidades de las empresas competidoras en el mercado.
-* Encuestas realizadas a los usuarios u otro tipo de análisis cuantitavo.
+1. Análisis de competidores (benchmark) que te permita identificar fortalezas y debilidades de las empresas competidoras en el mercado.
+2. Encuestas realizadas a los usuarios u otro tipo de análisis cuantitavo.
 
 Recuerda negociar con tu equipo para que decidan si quieren abarcar los hitos opcionales juntas o de forma individual. Siempre prioriza los hitos obligatorios y no te presiones demás, a veces, menos es más!
 
