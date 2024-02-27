@@ -37,7 +37,7 @@ Si bien las [8 habilidades](https://coda.io/d/Book-Estudiantes-UX007\_dRVCOWH9Vy
 
 #### Objetivos de aprendizaje (OAs)
 
-Work in progress :construction:
+<table data-full-width="true"><thead><tr><th width="63">⚪️</th><th width="227">Meta</th><th width="226">Objetivo de aprendizaje</th><th width="62" data-type="checkbox">H1</th><th width="62" data-type="checkbox">H2</th><th width="57" data-type="checkbox">H3</th><th width="57" data-type="checkbox">H4</th><th width="63" data-type="checkbox">H5</th><th width="58" data-type="checkbox">H6</th><th data-type="checkbox">H7</th></tr></thead><tbody><tr><td>🔴</td><td><strong>Planificación ágil</strong></td><td>Definir alcance general</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Crear plan de trabajo</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Gestionar tareas</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td></tr><tr><td>🔴</td><td><strong>Entendimiento del negocio</strong></td><td>Analizar competidores</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟣</td><td><strong>Planteamiento de la investigación</strong></td><td>Definir la investigación</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Analizar información existente</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Definir muestra</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Gestionar participantes</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟣</td><td><strong>Técnicas analíticas (cuantitativas)</strong></td><td>Explorar técnicas analíticas</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟣</td><td><strong>Análisis de la investigación</strong></td><td>Procesar información</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Identificar patrones</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Sintetizar resultados</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Facilitar el análisis utilizando IA</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td><strong>Concepto de diseño</strong></td><td>Buscar inspiración</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Idear soluciones</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Priorizar ideas</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td><strong>Diseño de interacción</strong></td><td>Crear flujos de usuario</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Utilizar principios de usabilidad</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Crear la arquitectura de información</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td><strong>Diseño de interfaces</strong></td><td>Crear propuesta de diseño visual</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Utilizar principios de accesibilidad</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Implementar diseño responsivo</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Generar propuestas visuales mediante IA</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td><strong>Diseño de contenido</strong></td><td>Crear guía de voz y tono</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Proponer micro-contenido para UX</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Definir contenido visual para UX</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Crear textos e imágenes usando IA</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟢</td><td><strong>Prototipado</strong></td><td>Crear prototipos básicos</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Crear prototipos en alta fidelidad</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td></td><td></td><td>Utilizar interacciones avanzadas</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td><td>true</td></tr><tr><td></td><td></td><td>Utilizar plug-ins de IA para prototipar</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td><td>true</td></tr><tr><td>🟢</td><td><strong>Análisis de usabilidad</strong></td><td>Realizar pruebas no-moderadas</td><td>false</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td><td>false</td></tr><tr><td>🟢</td><td><strong>Pitch de diseño</strong></td><td>Recolectar feedback de diseño</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td></tr><tr><td></td><td></td><td>Presentar ante stakeholders</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td></tr><tr><td></td><td></td><td>Apoyarse en herramientas de IA para presentar propuestas</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td></tr><tr><td>🔵</td><td><strong>Especificaciones de diseño</strong></td><td>Organizar documentos de Figma</td><td>false</td><td>false</td><td>true</td><td>true</td><td>false</td><td>true</td><td>true</td></tr><tr><td></td><td></td><td>Documentar componentes</td><td>false</td><td>false</td><td>true</td><td>true</td><td>false</td><td>true</td><td>true</td></tr><tr><td></td><td></td><td>Documentar el proyecto de diseño</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td><td>true</td></tr><tr><td>🔵</td><td><strong>Sistemas y librerías de diseño</strong></td><td>Implementar Atomic Design</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td><td>true</td><td>false</td></tr><tr><td></td><td></td><td>Utilizar sistemas de diseño</td><td>false</td><td>false</td><td>false</td><td>false</td><td>false</td><td>true</td><td>false</td></tr></tbody></table>
 
 
 
@@ -63,9 +63,108 @@ Durante los diferentes avances, o al cierre del proyecto, debes presentar docume
 
 <details>
 
-<summary>Hito 1 (obligatorio)</summary>
+<summary>Hito 1: Proyecto (obligatorio)</summary>
 
-Work in progress :construction:
+Organizarnos cuando no existe una solicitud específica de parte del negocio puede ser muy retador, pero sigue siendo clave para sacar el máximo provecho de nuestro tiempo.
+
+**Criterios de aceptación:**
+
+1. Resumen del alcance general del proyecto, con detalle de posibles entregables y un plan de trabajo con listado de tareas por realizar.
+2. Análisis de dashboards de referencia, donde identifiques las funcionalidades clave de este tipo de producto digital.
+
+No todo el tiempo es necesario invertir el mismo esfuerzo en todas las etapas del proceso de diseño. Utiliza como guía los OAs que quieres potenciar durante el proyecto para definir el tiempo que vas a dedicar en cada etapa. Por ejemplo: quieres fortalecer tus habilidades de prototipado y diseño UI, planifica desde el principio una investigación breve y una fuerte profundización en exploración visual.
+
+</details>
+
+<details>
+
+<summary>Hito 2: Investigación cuantitativa (obligatorio)</summary>
+
+¿Cómo entender a los usuarios de productos que aún no existen? Analizando productos de competidores o herramientas que usan para resolver sus necesidades. Planifica el tipo de información que necesitas para fundamentar tus propuestas y elige el método apropiado.
+
+**Criterios de aceptación:**
+
+1. Documento con el detalle del plan de investigación, que incluya los objetivos de investigación, los métodos de investigación que van a utilizar, perfil del usuario meta y tamaño de la muestra
+2. Instrumentos de investigación de acuerdo al método seleccionado y evidencia de que validaron estas guías con una persona externa al equipo (idealmente un usuario)
+3. Síntesis de resultados, donde se muestren los patrones identificados, las observaciones y hallazgos (en caso de que existan)
+4. Priorización de problemas por resolver (how might we, etc.)
+
+Muchas veces, las entrevistas NO son el método adecuado para analizar el uso que le dan las personas a los productos digitales. Puedes realizar testeos de usabilidad de algún producto de referencia, ejercicios de card-sorting, análisis de mapas de calor, etc.
+
+</details>
+
+<details>
+
+<summary>Hito 3: Propuesta de diseño (obligatorio)</summary>
+
+Debes proponer una solución que se pueda diseñar en el tiempo del proyecto, asegurando que resuelva los problemas prioritarios.
+
+**Criterios de aceptación:**
+
+1. Múltiples ideas de solución y criterios para priorizarlas. Las ideas pueden ser frases o bocetos en papel y lápiz que representen la solución
+2. Diagramas de flujo de usuario y arquitectura de información (categorías, etiquetas, navegación)
+3. Detalle de cómo la propuesta respeto los principios de usabilidad
+4. Guía básica de voz y tono aplicado al producto digital
+5. Propuesta de textos (micro-copy), iconos e imágenes
+6. Prototipo básico\* enfocado en la arquitectura de información
+
+\*Un prototipo básico es aquel donde se puede navegar entre pantallas e incluye el contenido y funcionalidades más relevantes, sin incluir detalles visuales como color, tipografía, etc.
+
+</details>
+
+<details>
+
+<summary>Hito 4: Prototipado (obligatorio)</summary>
+
+Una vez que tengas clara la estructura de tu propuesta, es momento de integrar los elementos visuales necesarios para potenciar una buena experiencia de uso.
+
+**Criterios de aceptación:**
+
+1. Moodboard con referencias visuales que funcione como inspiración para tu UI
+2. Guía visual con especificaciones de los elementos gráficos: paleta de colores, tipografías, layout y espaciado entre elementos (márgenes internos: padding /  márgenes externos: margin)
+3. Prototipo navegable de alta fidelidad con interacciones básicas (cambio de pantalla, atrás, etc.). Debe incluir una versión para web y otra para mobile o tablet
+4. Explicación donde demuestres como aplicaste los principios básicos de accesibilidad en tu propuesta (perceptibilidad y operabilidad)
+5. Librería de componentes (UI Kit) construida bajo los principios de Atomic Design
+
+</details>
+
+<details>
+
+<summary>Hito 5: Validación (obligatorio)</summary>
+
+Es vital que realicemos validaciones de nuestras propuestas, especialmente con productos construidos desde cero.
+
+**Criterios de aceptación:**
+
+1. Validación de la propuesta mediante prueba de usabilidad no-moderada
+2. Identificar tasas de error y otras métricas de diseño relevantes en las pruebas de usabilidad
+
+</details>
+
+<details>
+
+<summary>Hito 6 (opcional)</summary>
+
+Si quieres profundizar en la sistematización de componentes, explora sistemas de diseño existentes y utilízalos en la construcción de tu propuesta.
+
+**Criterios de aceptación:**
+
+1. Selección de un sistema de diseño que incluya elementos para dashboards
+2. Personalización del sistema para que se adapte a tu propuesta de diseño visual
+
+</details>
+
+<details>
+
+<summary>Hito 7 (opcional)</summary>
+
+Solo si resolviste los demás hitos, es una buena oportunidad para profundizar en interacciones un poco más avanzadas, como carrusel de imágenes, menú colapsable, etc.
+
+**Criterios de aceptación:**
+
+1. Prototipo en alta fidelidad que incluya interacciones avanzadas
+
+Recuerda que solamente es un prototipo (simulación), por lo cual es imposible replicar al 100% algunas interacciones a las que estás acostumbrada en los productos digitales modernos.&#x20;
 
 </details>
 
