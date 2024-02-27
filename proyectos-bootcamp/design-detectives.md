@@ -1,4 +1,4 @@
-# 🕵️‍♀️ Design detectives
+# 🔎 Design detectives
 
 En nuestra carrera profesional como diseñadoras UX, muchas veces nos uniremos a empresas con **productos existentes**, que requieren mejoras continuas para satisfacer las necesidades de las personas usuarias y alcanzar las metas del negocio.&#x20;
 
