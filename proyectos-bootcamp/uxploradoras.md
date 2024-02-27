@@ -47,8 +47,8 @@ Si bien las [8 habilidades](https://coda.io/d/Book-Estudiantes-UX007\_dRVCOWH9Vy
 **No se permite realizar entrevista ni encuestas, con el fin de que te atrevas a utilizar otras técnicas de investigación y análisis muy útiles cuando hay acceso limitado a usuarios. Las pruebas de usabilidad deben ser no-moderadas.**
 {% endhint %}
 
-* El proyecto debe estar enfocado en una solución digital a la cual tengas acceso, considera que los usuarios con los que realizarás las pruebas también tengan acceso. Varios equipos pueden elegir la misma plataforma.
-* Cada equipo debe reclutar sus propios usuarios para las pruebas. Trata de que sean usuarios reales de la plataforma e idealmente testea con 5 personas, de lo contrario los resultados pueden estar sesgados o ser insuficientes.
+* Trabajarás en duplas (2 estudiantes), te sugerimos elegir un nombre que las represente y facilite identificar tu equipo. No te preocupes, recibirás guía para formar tu equipo.
+* Cada equipo debe reclutar sus propios usuarios para las pruebas. Trata de que sean usuarios potenciales e idealmente testea con 5 personas, de lo contrario los resultados pueden estar sesgados o ser insuficientes.
 * Cada equipo debe presentar su propia solución, prototipos y tests. Sabemos que algunas soluciones serán similares dado que resuelven el mismo reto, pero nuestra forma de pensar y resolver es única, atrévete a explorar más allá de lo convencional.
 
 
