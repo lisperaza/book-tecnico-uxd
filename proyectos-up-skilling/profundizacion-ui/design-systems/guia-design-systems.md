@@ -48,6 +48,13 @@ Antes de iniciar define un moodboard este está diseñado para capturar la esenc
 
 No olvides ordenar tu guía de marca que incluya todos los elementos anteriores (debe ser más similar a un brand book que a un UI Kit, ya que otras áreas de la empresa van a utilizar esta guía).
 
+Aquí te compartimos otros materiales de apoyo:
+
+* [Como crear una guía de estilo de tu marca](https://mailchimp.com/es/resources/tips-to-create-your-brands-style-guide/)
+* [How to Create a Simple Brand Style Guide for Your Small Business](https://www.natsuminishizumi.com/blog/how-to-create-a-simple-brand-style-guide)
+* [19 minimalist brand style guide examples](https://www.brandingidentitydesign.com/19-minimalist-style-guides/)
+* [Ejemplo de una guía de marca](https://www.behance.net/gallery/189304057/FRAMEIO-Brand-identity-Brand-Guidelines-2024?tracking\_source=search\_projects%7Cbrand+style+guide+identity) (este ejemplo es avanzado, buscamos algo más básico)
+
 ## Paso 2: Revisa y documenta componentes actuales
 
 Como un arqueólogo desenterrando artefactos antiguos, tu primer paso es explorar y documentar los componentes existentes. Examina cuidadosamente cada uno, comprendiendo su función y cómo se utilizan en el sistema actual. Por ello, cuando ya tengas tu moodboard medio definido empieza a documentar los componentes que actualmente existen en la plataforma.
@@ -113,7 +120,9 @@ Te dejamos algunos enlaces que te pueden ayudar en tu investigación:
 
 ## Paso 6: Haz una librería con los componentes definido
 
-Una vez que  tengas los conceptos más claros sobre design system y ya documentados todos los componentes actuales de la plataforma imagina que eres una maestra artesana, tallando delicadamente cada componente de interfaz de usuario como si fueran piezas importantes. Recuerda utilizar herramientas de diseño para crear una librería organizada, como si estuvieras creando un gabinete de curiosidades lleno de tesoros esperando ser descubiertos.
+Una vez que  tengas los conceptos más claros sobre design system y ya documentados todos los componentes actuales de la plataforma imagina que eres una maestra artesana, tallando delicadamente cada componente de interfaz de usuario como si fueran piezas importantes.&#x20;
+
+Recuerda utilizar herramientas de diseño para crear una librería organizada, como si estuvieras creando un gabinete de curiosidades lleno de tesoros esperando ser descubiertos.
 
 Es hora de empezar a poner las manos en la masa para documentar tu librería rediseñada. Ten en cuenta:
 

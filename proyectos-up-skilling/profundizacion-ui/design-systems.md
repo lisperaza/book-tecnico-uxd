@@ -1,5 +1,5 @@
 ---
-cover: ../../../.gitbook/assets/6392a1568df82b8ff7d4a60f_blog-img-1.2.jpeg
+cover: ../../.gitbook/assets/6392a1568df82b8ff7d4a60f_blog-img-1.2.jpeg
 coverY: 0
 ---
 
@@ -19,7 +19,7 @@ Los sistemas de diseño nacieron para facilitar la colaboración entre múltiple
 
 #### Metas de aprendizaje
 
-<table><thead><tr><th width="76">⚪️</th><th width="274">Meta</th><th data-type="checkbox">Hito 1</th><th data-type="checkbox">Hito 2</th><th data-type="checkbox">Hito 3</th><th data-type="checkbox">Hito 4</th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f7e0">🟠</span></td><td><strong>Principios de diseño visual</strong></td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td><strong>Concepto de diseño</strong></td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td><strong>Diseño de interfaces</strong></td><td>false</td><td>true</td><td>true</td><td>false</td></tr><tr><td>🟢</td><td><strong>Prototipado</strong></td><td>false</td><td>false</td><td>false</td><td>true</td></tr><tr><td>🔵</td><td><strong>Especificaciones de diseño</strong></td><td>false</td><td>true</td><td>true</td><td>false</td></tr><tr><td>🔵</td><td><strong>Sistemas y librerías de diseño</strong></td><td>false</td><td>true</td><td>true</td><td>false</td></tr></tbody></table>
+<table><thead><tr><th width="76">⚪️</th><th width="274">Meta</th><th data-type="checkbox">Hito 1</th><th data-type="checkbox">Hito 2</th><th data-type="checkbox">Hito 3</th><th data-type="checkbox">Hito 4</th></tr></thead><tbody><tr><td><span data-gb-custom-inline data-tag="emoji" data-code="1f7e0">🟠</span></td><td>Principios de diseño visual</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td>Concepto de diseño</td><td>true</td><td>false</td><td>false</td><td>false</td></tr><tr><td>🟡</td><td>Diseño de interfaces</td><td>false</td><td>true</td><td>true</td><td>false</td></tr><tr><td>🟢</td><td>Prototipado</td><td>false</td><td>false</td><td>false</td><td>true</td></tr><tr><td>🔵</td><td>Especificaciones de diseño</td><td>false</td><td>true</td><td>true</td><td>false</td></tr><tr><td>🔵</td><td>Sistemas y librerías de diseño</td><td>false</td><td>true</td><td>true</td><td>false</td></tr></tbody></table>
 
 
 
@@ -56,7 +56,7 @@ Primero vamos a definir las bases visuales que utilizarás en el rediseño de la
 3. Selecciona la tipografía(s) que utilizarás para títulos y párrafos.
 4. Define la paleta de colores primarios y secundarios que utilizarás en el rediseño. _Nota: Valida que los colores sean accesibles, pero no te desgastes logrando el nivel AAA, con AA es suficiente._
 5. Define la iconografía que consideres más adecuada para tu rediseño.
-6. Genera una "guía de marca" que incluya todos los elementos anteriores. Debe ser más similar a un brand book que a un UI Kit, ya que otras áreas de la empresa van a utilizar esta guía.
+6. Genera una "guía de marca" que incluya todos los elementos anteriores. La intención es crear un "mini brand book", que más adelante aplicaremos a elementos de UI.
 
 **Experimenta con el rediseño de UNA sola pantalla. Esta se convertirá en tu "key visual" con la que guiarás tu propuesta.**
 
@@ -71,7 +71,7 @@ Una vez definido el concepto visual de la marca, es necesario mapear el estado a
 **Criterios de aceptación:**
 
 1. Crea un inventario visual de los principales componentes y patrones de la plataforma de referencia. _Por ejemplo, es posible que encuentres dos formas diferentes de seleccionar una fecha, mapea estas inconsistencias así como los elementos más utilizados en la plataforma._
-2. Define los diferentes elementos de espaciado para UI (grid, layout, spacer, etc.).&#x20;
+2. Define las características del espaciado para UI (retículas, layout, espaciados, etc.).&#x20;
 3. Rediseña los elementos, componentes y patrones mapeados aplicando la "guía de marca" desarrollaste.
 4. Documenta estos componentes utilizando el modelo de Atomic Design. Puedes crear un UI Kit o utilizar Notion por ejemplo.
 
@@ -85,8 +85,8 @@ Ahora es momento de sistematizar todo lo anteriormente diseñado e implementarlo
 
 **Criterios de aceptación:**
 
-1. Crea una presentación donde expliques las principales diferencias entre un Sistema de Diseño y una librería, que incluya un breve resumen de los diferentes sistemas de diseño más utilizados en la industria en este momento.
-2. Descarga la librería de componentes de Material Design y personalízala lo máximo posible para que adapte a lo que diseñaste en los pasos anteriores.
+1. Realiza un análisis sobre las principales diferencias entre un Sistema de Diseño y una librería. Incluye una breve lista de los sistemas de diseño más utilizados actualmente.
+2. Descarga la librería de componentes de Material Design y adáptala para que se vea lo más similar posible a lo que diseñaste en los pasos anteriores.
 3. Rediseña 3 pantallas principales de la plataforma de referencia, en las que puedas ejemplificar como se utilizaría el sistema de diseño.&#x20;
 4. Desarrolla la versión para mobile y tablet de las 3 pantallas que elegiste.
 

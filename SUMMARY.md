@@ -22,7 +22,7 @@
 
 * [🎨 Profundización UI](proyectos-up-skilling/profundizacion-ui/README.md)
   * [🥷 Ninja del prototipado](proyectos-up-skilling/profundizacion-ui/ninja-del-prototipado.md)
-  * [🦄 Design systems](proyectos-up-skilling/profundizacion-ui/design-systems/README.md)
+  * [🦄 Design systems](proyectos-up-skilling/profundizacion-ui/design-systems.md)
     * [Guía: Design systems](proyectos-up-skilling/profundizacion-ui/design-systems/guia-design-systems.md)
 * [✨ Low-code](proyectos-up-skilling/low-code/README.md)
   * [👑 Taylor nation](proyectos-up-skilling/low-code/taylor-nation.md)
