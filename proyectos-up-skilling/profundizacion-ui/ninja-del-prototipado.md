@@ -98,5 +98,5 @@ Ya tienes los diseños en tres tipos de dispositivos (desktop, tablet, mobile), 
 
 ***
 
-**Esperamos que disfrutes mucho este proyecto y al finalizarlo te sientas lista para cualquier reto técnico que encuentres en tus procesos de reclutamiento o tu día a día como UX designer! 💪**
+### **Esperamos que disfrutes mucho este proyecto y al finalizarlo te sientas lista para cualquier reto técnico que encuentres en tus procesos de reclutamiento o tu día a día como UX designer! 💪**
 

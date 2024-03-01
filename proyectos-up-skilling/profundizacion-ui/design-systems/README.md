@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/6392a1568df82b8ff7d4a60f_blog-img-1.2.jpeg
+cover: ../../../.gitbook/assets/6392a1568df82b8ff7d4a60f_blog-img-1.2.jpeg
 coverY: 0
 ---
 
@@ -109,5 +109,5 @@ Ahora con todos los ingredientes listos puedes dedicarte a crear un prototipo do
 
 ***
 
-**Aprenderás mucho explorando aspectos más técnicos del diseño de productos digitales, esperamos que al finalizarlo te sientas más segura para ejercer como UX designer!** :unicorn:
+### **Aprenderás mucho explorando aspectos más técnicos del diseño de productos digitales, esperamos que al finalizarlo te sientas más segura para ejercer como UX designer!** :unicorn:
 
