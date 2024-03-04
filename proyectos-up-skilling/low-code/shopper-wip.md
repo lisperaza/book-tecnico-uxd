@@ -18,7 +18,7 @@ Las plataformas de e-commerce han facilitado las ventas tanto a pequeñas y gran
 
 ## Consideraciones
 
-* Debes trabajar en dupla con una compañera. Además, te invitamos a mostrar avances a los otros equipos para rebotar ideas, desbloquearte y compartir descubrimientos.
+* Debes trabajar de forma individual. Te invitamos a mostrar avances a tus compañeras para rebotar ideas, desbloquearte y compartir descubrimientos.
 * Concéntrate en la herramienta y el contenido escrito, NO es necesario ni recomendable que propongas cambios en el diseño.&#x20;
 * Identifica cuáles elementos requieren personalización mediante cambios en el código de la plantilla y comunícalo. Lo importante es aprender a diferenciar hasta dónde llega la herramienta y hasta dónde se requiere trabajo un poco más profundo para el cual necesitas apoyo de desarrolladoras de software.
 
