@@ -106,5 +106,5 @@ En construcción :woman\_construction\_worker:&#x20;
 
 ***
 
-&#x20;**Con herramientas low-code, puedes explotar muchísimo tus habilidades como UX designer y llevarlas un paso más allá! creando productos digitales de cero a cien** :rocket:
+### **Con herramientas low-code, puedes explotar muchísimo tus habilidades de UX design y llevarlas más allá! creando productos digitales de 0 a 100** :rocket:
 
