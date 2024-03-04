@@ -13,8 +13,12 @@ Como UX Designers es muy útil comprender los fundamentos de HTML y CSS, así po
 
 ## Lo que aprenderás:
 
-* Comprenderás la lógica básica de los lenguajes de programación HTML y CSS, es decir, su estructura y propiedades principales
+* Comprenderás la lógica básica de HTML y CSS, es decir, su estructura y propiedades principales
 * Podrás crear páginas básicas o prototipos funcionales, muy útil para comprender las limitaciones técnicas de tus diseños y mejorar las especificaciones técnicas al momento de diseñar
+
+#### Objetivos de aprendizaje (OAs)
+
+<table><thead><tr><th width="63">⚪️</th><th width="235">Meta</th><th width="436">Objetivo de aprendizaje</th></tr></thead><tbody><tr><td>⚪️</td><td><strong>Principios de HMTL &#x26; CSS</strong></td><td>Comprender estructuras de HTML básico</td></tr><tr><td></td><td></td><td>Implementar propiedades visuales usando CSS</td></tr><tr><td>⚪️</td><td><strong>Maquetado en Framer</strong></td><td>Uso de plantillas (pages, sections, navigation, menus)</td></tr><tr><td></td><td></td><td>Uso de elementos (creative, media, forms, icons, interactive, social, utility)</td></tr><tr><td></td><td></td><td>Modificación de plantillas (propiedades básicas de CSS, añadir tipografías, transiciones, eventos)</td></tr><tr><td></td><td></td><td>Modificación de breakpoints (Desktop, Tablet, Mobile)</td></tr><tr><td></td><td></td><td>Uso de layouts: Frames (rows, columns, grid)</td></tr><tr><td></td><td></td><td>Creación de componentes</td></tr></tbody></table>
 
 
 
@@ -110,4 +114,5 @@ Si quieres llevarlo a otro nivel, experimenta con funciones un poco más avanzad
 
 ***
 
-**Utiliza tu curiosidad al máximo para ver lo invisible, la estructura tras bambalinas que da vida al diseño y lo convierte de un "simple dibujo" en un producto funcional** :ghost:&#x20;
+### **Utiliza tu curiosidad al máximo para ver lo invisible, la estructura tras bambalinas que da vida al diseño y lo convierte de un "simple dibujo" en un producto funcional** :ghost:&#x20;
+
