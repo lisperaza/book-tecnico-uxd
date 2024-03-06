@@ -18,7 +18,7 @@ Como UX Designers es muy útil comprender los fundamentos de HTML y CSS, así po
 
 #### Objetivos de aprendizaje (OAs)
 
-<table><thead><tr><th width="63">⚪️</th><th width="235">Meta</th><th width="436">Objetivo de aprendizaje</th></tr></thead><tbody><tr><td>⚪️</td><td><strong>Principios de HMTL &#x26; CSS</strong></td><td>Comprender estructuras de HTML básico</td></tr><tr><td></td><td></td><td>Implementar propiedades visuales usando CSS</td></tr><tr><td>⚪️</td><td><strong>Maquetado en Framer</strong></td><td>Uso de plantillas (pages, sections, navigation, menus)</td></tr><tr><td></td><td></td><td>Uso de elementos (creative, media, forms, icons, interactive, social, utility)</td></tr><tr><td></td><td></td><td>Modificación de plantillas (propiedades básicas de CSS, añadir tipografías, transiciones, eventos)</td></tr><tr><td></td><td></td><td>Modificación de breakpoints (Desktop, Tablet, Mobile)</td></tr><tr><td></td><td></td><td>Uso de layouts: Frames (rows, columns, grid)</td></tr><tr><td></td><td></td><td>Creación de componentes</td></tr></tbody></table>
+<table><thead><tr><th width="63">⚪️</th><th width="235">Meta</th><th width="436">Objetivo de aprendizaje</th></tr></thead><tbody><tr><td>⚪️</td><td><strong>Principios de HMTL &#x26; CSS</strong></td><td>Investigar HTML Semántico</td></tr><tr><td></td><td></td><td>Investigar propiedades básicas de CSS (box model, display, media queries, etc.)</td></tr><tr><td>⚪️</td><td><strong>Maquetado en Framer</strong></td><td>Uso de plantillas (pages, sections, navigation, menus)</td></tr><tr><td></td><td></td><td>Uso de elementos (creative, media, forms, icons, interactive, social, utility)</td></tr><tr><td></td><td></td><td><p>Modificación de plantillas:</p><ul><li>Aplicar propiedades básicas de CSS a partir de la modificación de plantillas (textos, imágenes, formas, fondos, colores, tamaños, efectos, estilos, posiciones, márgenes, bordes, espacios, scrolls, cursor, etc)</li><li>Añadir tipografías</li><li>Añadir interacciones (Transitions, Events)</li></ul></td></tr><tr><td></td><td></td><td>Modificación de breakpoints (Desktop, Tablet, Mobile)</td></tr><tr><td></td><td></td><td>Uso de layouts: Frames (rows, columns, grid)</td></tr><tr><td></td><td></td><td>Creación de componentes</td></tr></tbody></table>
 
 
 
@@ -47,9 +47,7 @@ El primer gran paso consiste en comprender los conceptos básicos sobre HTML y C
 **Criterios de aceptación:**
 
 1. Documentación donde expliques en qué consiste el HTML y CSS, las principales características y propiedades de sus elementos, así como las propiedades del “flexbox layout”.
-2. Utilizando la herramienta de “inspeccionar” del navegador que prefieras, crear un un diagrama de la página web indicando el contenido del Document Object Model (DOM).
-
-
+2. Utilizando la herramienta de “Inspeccionar” del navegador que prefieras, crear un  diagrama de la página web indicando el contenido del DOM (Document Object Model) y modifícalo/corrígelo según el HTML semántico.
 
 </details>
 
@@ -62,9 +60,9 @@ Ahora es momento de replicar el sitio web utilizando [Framer](https://www.framer
 **Criterios de aceptación:**
 
 1. Replica el “header” y el “footer” del “homepage” utilizando la funcionalidad de Páginas y Navegación. Utiliza los diseños predefinidos en Framer y personalízalos.
-2. Debes incluir la tipografía utilizada en el sitio web original, puedes encontrar y descargar una versión gratuita.
-3. Configura los “breaking points” y asegúrate que el “header” y el “footer” se adaptan a dichos tamaños.
-4. Al replicar las propiedades visuales, debes utilizar estilos y variables cuando sea posible o necesario.
+2. Al replicar las propiedades visuales, debes modificar su box-model y las propiedades de tamaño, posición, ancho, alto, alineamiento, color, etc. cuando sea posible o necesario.
+3. Debes incluir la tipografía utilizada en el sitio web original, puedes encontrar y descargar una versión gratuita
+4. Para entender los media quieres en CSS, configura los “breaking points” y asegúrate que el “header” y el “footer” se adaptan a dichos tamaños
 
 </details>
 
@@ -87,13 +85,13 @@ Una vez tengas lista la navegación, completa el sitio replicando todo el conten
 
 <summary>Hito 4 (opcional)</summary>
 
-Listo el “homepage”, podemos pasar a replicar la página de descripción del producto.
+Listo el “homepage”, podemos pasar a replicar la Página de Descripción del Producto.
 
 **Criterios de aceptación:**
 
-1. Incluye las 4 secciones completas para la versión desktop.&#x20;
-2. Ajusta las versiones para mobile y tablet (“responsive”).
-3. Es posible navegar entre secciones ("homepage" y descripción de producto).
+1. Sin utilizar una plantilla, crea tus propios componentes y secciónalos con un layout que incluya las 4 secciones completas para la versión desktop. Luego únelos en un mismo frame
+2. Repite y ajusta las versiones para mobile y tablet (“responsive”)
+3. Es posible navegar entre secciones (”homepage” y descripción de producto)
 4. Los componentes replican las interacciones lo más realista posible (hover, active, etc.)
 
 </details>
@@ -111,6 +109,24 @@ Si quieres llevarlo a otro nivel, experimenta con funciones un poco más avanzad
 3. Carga los productos de forma dinámica utilizando la funcionalidad de CMS.
 
 </details>
+
+
+
+## Recursos complementarios
+
+Acá te compartimos algunos recursos de utilidad para que inicies:
+
+* [Get started — Framer Academy](https://www.framer.com/academy/topics/start) →
+* [HTML semántico - Lab](https://curriculum.laboratoria.la/es/topics/html/html5/semantic-html) →
+* [Conceptos iniciales de HTML - MDN](https://developer.mozilla.org/es/docs/Learn/Getting\_started\_with\_the\_web/HTML\_basics) →
+* [Intro a CSS - Lab](https://curriculum.laboratoria.la/es/topics/css/css/intro-css) →
+* [Conceptos básicos de CSS - MDN](https://developer.mozilla.org/es/docs/Learn/Getting\_started\_with\_the\_web/CSS\_basics) →
+* [Box Model y Display - Lab](https://curriculum.laboratoria.la/es/topics/css/css/boxmodel-and-display) →
+* [Intro a Box Model - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS\_Box\_Model/Introduction\_to\_the\_CSS\_box\_model) →
+* [Uso de Media queries - MDN](https://developer.mozilla.org/es/docs/Web/CSS/CSS\_media\_queries/Using\_media\_queries) →
+* Tipografías: [Google Fonts](https://fonts.google.com/) y [Dafont](https://www.dafont.com/es/) →
+
+
 
 ***
 

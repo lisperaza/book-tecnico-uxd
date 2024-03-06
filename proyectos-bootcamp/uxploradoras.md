@@ -1,6 +1,6 @@
 # 🌈 UXploradoras
 
-Aunque parezcan invisibles, los principios de diseño visual y diseño UX son los pilares técnicos que nos permiten generar productos de alto valor estético y funcional. En este proyecto nos enfocaremos tanto en la **arquitectura de información como en la interfaz visual** de una plataforma digital, para profundizar en los aspectos más técnicos que fundamentan nuestras propuestas.
+Aunque parezcan invisibles, los principios de diseño visual y diseño UX son los pilares técnicos que nos permiten generar productos de alto valor estético y funcional. En este proyecto nos enfocaremos tanto en la **arquitectura de información como en la interface visual** de una plataforma digital, para profundizar en los aspectos más técnicos que fundamentan nuestras propuestas.
 
 <mark style="background-color:green;">**Trabajando en dupla, van a diseñar un dashboard desde cero. Iniciando con la jerarquía y arquitectura de la información (agrupación, etiquetas, navegación), para finalizar realizando una propuesta de interface visual (layout, espaciado, colores, tipografía, etc.).**</mark>
 
