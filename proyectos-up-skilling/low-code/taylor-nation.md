@@ -7,7 +7,7 @@ coverY: 141.38260869565215
 
 Como UX Designers es muy útil comprender los fundamentos de HTML y CSS, así podrás comunicarte mejor con los equipos de desarrollo de Sotfware, dimensionar la complejidad técnica de tus diseños y desarrollar la documentación adecuada para implementación (technical hand-off). En este proyecto, aprenderás de forma dinámica, utilizando una herramienta que une el mundo visual con el código de forma intuitiva.
 
-<mark style="background-color:green;">**Utilizando la herramienta Framer, tu misión será replicar el landing page y una página de descripción de producto del website de Taylor Swift. Debes reproducir la versión desktop, tablet y mobile.**</mark>
+<mark style="background-color:green;">**Utilizando la herramienta Framer, tu misión será**</mark> [<mark style="background-color:green;">**replicar el landing page**</mark>](https://www.taylorswift.com/) <mark style="background-color:green;">**y una página de descripción de producto del website de Taylor Swift. Debes reproducir la versión desktop, tablet y mobile.**</mark>
 
 
 
@@ -125,8 +125,6 @@ Acá te compartimos algunos recursos de utilidad para que inicies:
 * [Intro a Box Model - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS\_Box\_Model/Introduction\_to\_the\_CSS\_box\_model) →
 * [Uso de Media queries - MDN](https://developer.mozilla.org/es/docs/Web/CSS/CSS\_media\_queries/Using\_media\_queries) →
 * Tipografías: [Google Fonts](https://fonts.google.com/) y [Dafont](https://www.dafont.com/es/) →
-
-
 
 ***
 
