@@ -59,7 +59,7 @@ Si bien las [8 habilidades](https://coda.io/d/Book-Estudiantes-UX007\_dRVCOWH9Vy
 
 Para realizar el proyecto, tendrán que elegir una categoría de producto digital, ya que necesitarás plataformas de referencia. Aquí te damos algunas opciones pero podrás proponer otras dentro de las categorías definidas:
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Mercadeo</strong></td><td>Monitoreo de métricas sobre el desempeño de campañas de mercadeo.</td><td><a href="../.gitbook/assets/original-bae02bf5409583c2650fe6e9abb96ac4.png">original-bae02bf5409583c2650fe6e9abb96ac4.png</a></td></tr><tr><td><strong>Deportes y salud</strong></td><td>Aplicaciones enfocadas en indicadores de actividad física y salud.</td><td><a href="../.gitbook/assets/original-c0e51822f7d789aba16682e50668b36a.jpeg">original-c0e51822f7d789aba16682e50668b36a.jpeg</a></td></tr><tr><td><strong>Finanzas</strong></td><td>Enfoque en finanzas personales o aplicaciones bancarias modernas.</td><td><a href="../.gitbook/assets/original-ef4fcfef0d226150378b091ea4edb1b5.png">original-ef4fcfef0d226150378b091ea4edb1b5.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Mercadeo</strong></td><td>Monitoreo de métricas relevantes para mercadeo. Algunos ejemplos:<br>- <a href="https://www.semrush.com/analytics/overview/?q=ebay.com&#x26;searchType=domain">Semrush</a><br>- <a href="https://agencyanalytics.com/integrations/unbounce">Unbounce</a><br>- <a href="https://mixpanel.com/blog/mixpanel-marketing-analytics/">Mixpanel</a></td><td><a href="../.gitbook/assets/original-bae02bf5409583c2650fe6e9abb96ac4.png">original-bae02bf5409583c2650fe6e9abb96ac4.png</a></td></tr><tr><td><strong>Deportes y salud</strong></td><td>Aplicaciones enfocadas en indicadores de actividad física y salud. Ejemplos:<br>- <a href="https://play.google.com/store/apps/details?id=com.sec.android.app.shealth&#x26;hl=en&#x26;gl=US&#x26;pli=1">Samsung health</a><br>- <a href="https://app.flo.health/?utm_source=google&#x26;utm_medium=cpc&#x26;utm_campaign=&#x26;utm_content=02c&#x26;utm_term=2&#x26;gad_source=1&#x26;gclid=CjwKCAjwzN-vBhAkEiwAYiO7oB8LmUS-VkVbbVAZ0UR_-eHsLz1cxzhIp-untRWmJlfxTVSEg_qyUxoCnOEQAvD_BwE">Flo health</a><br>- <a href="https://www.nike.com/ntc-app">Nike Training Club</a></td><td><a href="../.gitbook/assets/original-c0e51822f7d789aba16682e50668b36a.jpeg">original-c0e51822f7d789aba16682e50668b36a.jpeg</a></td></tr><tr><td><strong>Finanzas</strong></td><td>Finanzas personales o aplicaciones bancarias modernas. Ejemplo:<br>- <a href="https://www.splitwise.com/">Splitwise</a><br>- <a href="https://isavemoney.app/">iSaveMoney</a><br>- <a href="https://www.nequi.com.co/">Nequi</a></td><td><a href="../.gitbook/assets/original-ef4fcfef0d226150378b091ea4edb1b5.png">original-ef4fcfef0d226150378b091ea4edb1b5.png</a></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
 
 El proyecto está dividido en hitos, los cuales son como marcas de kilómetros en las carreteras, donde tú decides qué tan lejos quieres llegar. La decisión es tuya y dependerá del tiempo que tengas disponible día a día, de tu ritmo de aprendizaje y de la profundidad que quieras alcanzar.&#x20;
 
@@ -151,12 +151,12 @@ En este proyecto, este será el momento en el que involucres a los usuarios de f
 
 <summary>Hito 6 (opcional)</summary>
 
-Si quieres profundizar en la sistematización de componentes, explora sistemas de diseño existentes y utilízalos en la construcción de tu propuesta.
+Si quieres profundizar en la sistematización de componentes, explora Material Design y utilízalo en la construcción de tu propuesta.
 
 **Criterios de aceptación:**
 
-1. Selección de un sistema de diseño que incluya elementos para dashboards
-2. Personalización del sistema para que se adapte a tu propuesta de diseño visual
+1. Modifica los estilos de Material Design según tu propuesta de diseño ([theme builder](https://m3.material.io/theme-builder#/custom))
+2. Descarga y utiliza la librería de [Material Design](https://m2.material.io/design/communication/data-visualization.html) para dashboards
 
 </details>
 
