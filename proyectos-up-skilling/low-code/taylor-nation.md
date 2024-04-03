@@ -85,7 +85,7 @@ Una vez tengas lista la navegación, completa el sitio replicando todo el conten
 
 <summary>Hito 4 (opcional)</summary>
 
-Listo el “homepage”, podemos pasar a replicar la Página de Descripción del Producto.
+Listo el “homepage”, podemos pasar a replicar una página de [Descripción del Producto](https://store.taylorswift.com/collections/the-tortured-poets-department-homepage/products/the-tortured-poets-department-vinyl-bonus-track-the-manuscript).
 
 **Criterios de aceptación:**
 
