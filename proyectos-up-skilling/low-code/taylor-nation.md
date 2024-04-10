@@ -96,20 +96,6 @@ Listo el “homepage”, podemos pasar a replicar una página de [Descripción d
 
 </details>
 
-<details>
-
-<summary>Hito 5 (opcional)</summary>
-
-Si quieres llevarlo a otro nivel, experimenta con funciones un poco más avanzadas.
-
-**Criterios de aceptación:**
-
-1. Replica el formulario de “Sign Up”.
-2. Agrega etiquetas de accesibilidad a los diferentes elementos de HTML.
-3. Carga los productos de forma dinámica utilizando la funcionalidad de CMS.
-
-</details>
-
 
 
 ## Recursos complementarios
