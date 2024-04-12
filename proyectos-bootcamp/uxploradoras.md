@@ -69,7 +69,7 @@ Durante los diferentes avances, o al cierre del proyecto, debes presentar docume
 
 <details>
 
-<summary>Hito 1: Proyecto (obligatorio)</summary>
+<summary>Hito 1: Planificación del proyecto (obligatorio)</summary>
 
 Organizarnos cuando no existe una solicitud específica de parte del negocio puede ser muy retador, pero sigue siendo clave para sacar el máximo provecho de nuestro tiempo.
 
@@ -149,7 +149,7 @@ En este proyecto, este será el momento en el que involucres a los usuarios de f
 
 <details>
 
-<summary>Hito 6 (opcional)</summary>
+<summary>Hito 6: Sistemas de diseño (opcional)</summary>
 
 Si quieres profundizar en la sistematización de componentes, explora Material Design y utilízalo en la construcción de tu propuesta.
 
