@@ -219,7 +219,5 @@ Luego de leer esta información, te dejamos acá algunas preguntas para reflexio
 
 ***
 
-**Ya experimentaste los retos y satisfacciones de diseñar con empresas, ahora integrarás lo aprendido en retos anteriores y ejercerás el liderazgo del proyecto.**&#x20;
-
-**Estaremos acompañándolas en este último proyecto, ya queda poco para finalizar!** 🙌💛
+**Ya experimentaste los retos y satisfacciones de diseñar con empresas, ahora integrarás lo aprendido en retos anteriores y ejercerás el liderazgo del proyecto. Estaremos acompañándolas en este último proyecto, ya queda poco para finalizar!** 🙌💛
 
