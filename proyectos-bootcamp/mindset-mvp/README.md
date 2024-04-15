@@ -36,10 +36,10 @@ Demo: Jueves 14 de marzo
 
 ## Lo que aprenderás:
 
-* Al trabajar con empresas reales, aprenderás a entender las necesidades y metas de negocio, al mismo tiempo que desarrollas habilidades de planificación, comunicación, negociación y trabajo en equipo
-* Descubrir necesidades reales de las personas usuarias, al poner en práctica técnicas de investigación, procesamiento y sintetizado de información con el fin de identificar patrones, hallazgos y observaciones
-* Generar ideas y soluciones para los problemas principales que han descubrimiento, utilizando diagramas de usuario, wireframes, prototipos, etc. para presentar y documentar sus propuestas
-* Validar propuestas a través del testeo con usuarios reales, con el fin de iterar los diseños y justificar con evidencia que la solución es efectiva
+* Al trabajar con empresas reales, aprenderás a entender las necesidades y metas de negocio, al mismo tiempo que desarrollas habilidades de planificación, comunicación, negociación y trabajo en equipo;
+* Descubrir necesidades reales de las personas usuarias, al poner en práctica técnicas de investigación, procesamiento y sintetizado de información con el fin de identificar patrones, hallazgos y observaciones;
+* Generar ideas y soluciones para los problemas principales que han descubrimiento, utilizando diagramas de usuario, wireframes, prototipos, etc. para presentar y documentar sus propuestas;
+* Validar propuestas a través del testeo con usuarios reales, con el fin de iterar los diseños y justificar con evidencia que la solución es efectiva.
 
 #### Life Skills
 

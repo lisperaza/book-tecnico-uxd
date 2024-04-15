@@ -1,2 +1,0 @@
-# 💡 Design lab - WIP
-

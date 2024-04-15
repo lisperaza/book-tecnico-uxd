@@ -16,7 +16,8 @@
 * [🚀 Mindset MVP](proyectos-bootcamp/mindset-mvp/README.md)
   * [Startups UXD007](proyectos-bootcamp/mindset-mvp/startups-uxd007.md)
 * [🌈 UXploradoras](proyectos-bootcamp/uxploradoras.md)
-* [💡 Design lab - WIP](proyectos-bootcamp/design-lab-wip.md)
+* [⚗️ Design lab](proyectos-bootcamp/design-lab/README.md)
+  * [Empresas UXD007 - WIP](proyectos-bootcamp/design-lab/empresas-uxd007-wip.md)
 
 ## Proyectos Up-skilling
 

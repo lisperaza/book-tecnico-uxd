@@ -33,12 +33,12 @@ Recursos:
 
 ### Squad
 
+<mark style="background-color:green;">**Equipos por squad: 2**</mark>
+
 **Product Owner:** Anabell Mora - CEO de Equivalence\
 Es ex trabajadora de Laboratoria, ahora es emprendedora. Tiene todo el mindset de agile classroom 💛🔥
 
 **Coach designada:** Fio Alvitez
-
-
 
 ### Aspectos a considerar
 
@@ -64,6 +64,8 @@ Recursos:
 * Link a la [carpeta de la empresa](https://drive.google.com/drive/folders/1Am5IV5d\_e\_CsWkXk-3tA0Nraos\_k4BK1) →
 
 ### Squad
+
+<mark style="background-color:green;">**Equipos por squad: 2**</mark>
 
 **Product Owner:** Macarena Appiani - Product Owner de AIctive\
 Es quien lidera el diseño y desarrollo de la web y app de AIctive y muy emocionada en comenzar este proceso. Tiene mucha información de investigaciones previas en la startup 💛👩‍💻
@@ -95,6 +97,8 @@ Recursos:
 
 ### Squad
 
+<mark style="background-color:green;">**Equipos por squad: 2**</mark>
+
 **Product Owner:** Camila Maira - Desarrolladora web de Licita LAB\
 Es egresada del bootcamp de desarrollo de Laboratoria, conoce y está muy animada con volver a Laboratoria como Product Owner 💛💪🏼
 
@@ -122,6 +126,8 @@ Recursos:
 * Link a la [carpeta de la empresa](https://drive.google.com/drive/folders/1cWDJe3EEpVOOKeFbMaBldqWWY8-Jaqzy) →
 
 ### Squad
+
+<mark style="background-color:green;">**Equipos por squad: 3**</mark>
 
 **Product Owner:** Rodrigo Hernandez - Co-founder y CEO de Ledgi-Fi\
 Es la segunda vez que su startup participa en el bootcamp de UXD de Laboratoria, conoce la dinámica y ve el valor agregado de sus puntos de vista 🎉💛

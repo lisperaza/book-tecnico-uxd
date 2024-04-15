@@ -36,11 +36,11 @@ Demo: Jueves 11 de abril
 
 ## Lo que aprenderás:
 
-* Al ser un proyecto corto, es clave definir el alcance y el plan de trabajo a nivel general, con detalle de etapas, entregables, tiempos y actividades
-* Aprenderás a generar propuestas de diseño desde cero, cuando no existe un producto inicial al cual realizarle mejoras, así como a utilizar herramientas para pruebas de usabilidad no-moderadas
-* Profundizar en principios de diseño visual, accesibilidad, usabilidad, arquitectura de información y flujos de usuario
-* Diseñar el contenido y guías básicas de voz y tono que apliquen para contenido de UX
-* Documentar la librería de componentes y patrones reutilizables, usando los principios de Atomic Design
+* Al ser un proyecto corto, es clave definir el alcance y el plan de trabajo a nivel general, con detalle de etapas, entregables, tiempos y actividades;
+* Aprenderás a generar propuestas de diseño desde cero, cuando no existe un producto inicial al cual realizarle mejoras, así como a utilizar herramientas para pruebas de usabilidad no-moderadas;
+* Profundizar en principios de diseño visual, accesibilidad, usabilidad, arquitectura de información y flujos de usuario;
+* Diseñar el contenido y guías básicas de voz y tono que apliquen para contenido de UX;
+* Documentar la librería de componentes y patrones reutilizables, usando los principios de Atomic Design.
 
 #### Life Skills
 

@@ -36,10 +36,10 @@ Demo: Jueves 25 de enero
 
 ## Lo que aprenderás:
 
-* Identificar problemas de usabilidad u oportunidades de mejora en productos digitales
-* Proponer y justificar mejoras de diseño para una mayor usabilidad
-* Conocer las funcionalidades básicas de Figma (herramienta de prototipado)
-* Desarrollar un mindset ágil de trabajo
+* Identificar problemas de usabilidad u oportunidades de mejora en productos digitales;
+* Proponer y justificar mejoras de diseño para una mayor usabilidad;
+* Conocer las funcionalidades básicas de Figma (herramienta de prototipado);
+* Desarrollar un mindset ágil de trabajo.
 
 #### Life Skills
 
