@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🚀 Mindset MVP
 
 La tecnología ha dado paso al rápido crecimiento de productos y servicios digitales, siendo las startups las organizaciones que más han aprovechado este contexto. Tendremos la oportunidad de trabajar con empresas y proyectos reales, liderados por emprendedores y emprendedoras con mentalidad ágil y creativa. ¡Bienvenidas al mundo de las startups!

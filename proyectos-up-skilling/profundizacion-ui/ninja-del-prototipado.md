@@ -1,6 +1,20 @@
 ---
 cover: ../../.gitbook/assets/6a45f2681ea14c83a1008c9696fc46d3.png
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🥷 Ninja del prototipado

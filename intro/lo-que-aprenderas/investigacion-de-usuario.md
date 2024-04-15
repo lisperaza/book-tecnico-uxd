@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🟣 Investigación de usuario
 
 Muchas veces necesitaremos acercarnos a las personas usuarias directamente para entender sus necesidades, metas y barreras al utilizar un producto. Sin embargo, no es la única manera de entender sus conductas, también podemos analizar sus acciones mediante herramientas y técnicas analíticas, así como comprender el contexto investigando otras fuentes secundarias.

@@ -1,6 +1,20 @@
 ---
 cover: ../../.gitbook/assets/6392a1568df82b8ff7d4a60f_blog-img-1.2.jpeg
 coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🦄 Design systems

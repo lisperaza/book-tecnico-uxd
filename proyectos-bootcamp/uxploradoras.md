@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🌈 UXploradoras
 
 Aunque parezcan invisibles, los principios de diseño visual y diseño UX son los pilares técnicos que nos permiten generar productos de alto valor estético y funcional. En este proyecto nos enfocaremos tanto en la **arquitectura de información como en la interface visual** de una plataforma digital, para profundizar en los aspectos más técnicos que fundamentan nuestras propuestas.

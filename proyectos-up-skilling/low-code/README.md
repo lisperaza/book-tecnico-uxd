@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # ✨ Low-code
 
 ## Si te genera mucha curiosidad comprender cómo darle vida a tus propuestas de diseño, **¡Aprovecha este programa! 🚀**

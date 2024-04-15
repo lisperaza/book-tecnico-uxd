@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🟢 Validación de propuestas
 
 Una vez que tenemos claridad sobre nuestra propuesta de diseño, es momento de exponerla a feedback del equipo, stakeholders y personas usuarias, así podrás descubrir fortalezas y debilidades, además de recopilar evidencia para justificar tus decisiones de diseño.

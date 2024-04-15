@@ -1,6 +1,20 @@
 ---
 cover: ../../.gitbook/assets/CPeQyaCBtPwCEAE=.webp
 coverY: 192.84347826086957
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🛍️ Shopper

@@ -1,4 +1,18 @@
-# Empresas
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
+# Startups UXD007
 
 Durante el proyecto colaborarás con 1 de las 4 empresas diferentes, con el fin de que puedas practicar cómo aplicar UX en un ambiente real. Acá puedes conocerlas un poco más!
 

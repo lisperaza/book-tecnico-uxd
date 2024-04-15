@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🎯 Lo que aprenderás
 
 Durante el bootcamp tendrás la oportunidad para desarrollar 5 habilidades fundamentales para ejercer el rol de una UX Designer. Cada una está conformada por Objetivos de Aprendizaje (OAs), los cuales son pasos más pequeños y concretos que te servirán de guía en el desarrollo de tus habilidades y podrás practicarlos en los diferentes proyectos. Algunos objetivos se repetirán en todos los proyectos, mientras que otros se presentarán solamente en algunas ocasiones, esto con el fin de propiciar un mayor enfoque en dichos objetivos.

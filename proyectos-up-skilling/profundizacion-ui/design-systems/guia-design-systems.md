@@ -1,5 +1,16 @@
 ---
 description: Recuerda que es un plan recomendado, identifica tu ritmo y tiempo.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Guía: Design systems

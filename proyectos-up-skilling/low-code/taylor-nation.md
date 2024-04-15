@@ -1,6 +1,20 @@
 ---
 cover: ../../.gitbook/assets/5a238785-2cd2-433f-8411-43f8043ea87a.avif
 coverY: 141.38260869565215
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 👑 Taylor nation

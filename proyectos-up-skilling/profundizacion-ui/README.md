@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🎨 Profundización UI
 
 ## **Si el bootcamp de UXD fue tu primera experiencia como diseñadora, ¡Este programa es para ti! 🚀**

@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🔵 Documentación técnica
 
 El trabajo colaborativo en UX requiere que seamos ordenadas en nuestros documentos, además, es necesario que definamos las especificaciones sobre cómo, cuándo y dónde utilizar los componentes que diseñamos, esto es fundamental para colaborar con equipos de desarrollo de software así como con otras diseñadoras, o incluso, contigo misma en el futuro!

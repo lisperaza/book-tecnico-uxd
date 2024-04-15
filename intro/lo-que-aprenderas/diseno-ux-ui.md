@@ -1,3 +1,17 @@
+---
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+---
+
 # 🟡 Diseño UX/UI
 
 Esta es la fase más creativa de todo nuestro trabajo, acá es donde transformamos la información recolectada en propuestas. Recuerda siempre comenzar por el concepto, te ayudará mucho para avanzar con agilidad, así como a definir en cuáles partes de la experiencia enfocarte.
