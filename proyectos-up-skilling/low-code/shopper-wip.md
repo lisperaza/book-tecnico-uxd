@@ -142,6 +142,17 @@ Con el diseño completo del homepage, es momento de analizar el contenido del si
 
 </details>
 
+
+
+## Recursos complementarios <a href="#recursos-complementarios" id="recursos-complementarios"></a>
+
+Acá te compartimos algunos recursos de utilidad para que inicies:
+
+* [Introducción a Shopify](https://help.shopify.com/es/manual/intro-to-shopify/overview) →
+* [Tienda en línea](https://help.shopify.com/es/manual/online-store) →
+* [The OFFICIAL Shopify Tutorial - Ecommerce from Scratch](https://www.youtube.com/watch?v=ferhOYx1NMo) →
+* [¿Cómo Funciona Shopify? - Tutorial en Español 🏆](https://www.youtube.com/watch?v=jc-m7ts0iu8) →
+
 ***
 
 ### **Con herramientas low-code, puedes explotar muchísimo tus habilidades de UX design y llevarlas más allá! creando productos digitales de 0 a 100** :rocket:
