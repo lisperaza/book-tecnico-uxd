@@ -21,7 +21,7 @@ layout:
 
 Las plataformas de e-commerce han facilitado las ventas a pequeñas y grandes empresas, dándoles muchas ventajas tecnológicas tanto en sus operaciones diarias como en la experiencia de uso de sus consumidores, así como ayudándoles a posicionarse en el mercado de forma digital. Con herramientas de low-code, podrás crear tiendas en línea para reflejar su identidad de marca y facilitar sus operaciones.
 
-<mark style="background-color:green;">**Utilizando**</mark> [<mark style="background-color:green;">**Shopify Partners**</mark>](https://www.shopify.com/mx/partners)<mark style="background-color:green;">**, tu misión será replicar**</mark> [<mark style="background-color:green;">**este sitio de referencia**</mark>](https://youmatter.mx/)<mark style="background-color:green;">**, recreando todo el flujo de compra desde su landing page hasta el carrito de compra, para la versión desktop.**</mark>
+<mark style="background-color:green;">**Utilizando**</mark> [<mark style="background-color:green;">**Shopify Partners**</mark>](https://www.shopify.com/mx/partners)<mark style="background-color:green;">**, tu misión será replicar el homepage de**</mark> [<mark style="background-color:green;">**este sitio de referencia**</mark>](https://youmatter.mx/) <mark style="background-color:green;">**en la versión desktop.**</mark>
 
 
 
