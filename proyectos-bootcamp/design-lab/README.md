@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# ⚗️ Design lab
+# 💡 Design lab
 
 Las empresas han entendido la importancia de ser ágiles para poder competir en un mercado cada vez más dinámico y cambiante. Es vital adaptarse rápidamente a los cambios, a los gustos de los consumidores y a las nuevas tendencias. En ese escenario, las nuevas tecnologías son una forma de mejorar la experiencia del usuario, más personalizada y satisfactoria. Tendremos la oportunidad de trabajar con equipos internos de empresas, o startups de diferentes industrias, que están generando cambios para transformar el mercado en el cual compiten.
 

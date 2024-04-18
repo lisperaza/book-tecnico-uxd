@@ -19,22 +19,24 @@ layout:
 
 # 🛍️ Shopper
 
-Las plataformas de e-commerce han facilitado las ventas tanto a pequeñas y grandes empresas, dándoles muchas ventajas tecnológicas tanto en sus operaciones diarias como en la experiencia de uso de sus consumidores, así como ayudándoles a posicionarse en el mercado de forma digital. Con herramientas de no-code o low-code podrás crear y personalizar sus tiendas en línea para reflejar su identidad de marca y analizar acciones de usuario para comprender cómo utilizan la plataforma las personas usuarias.
+Las plataformas de e-commerce han facilitado las ventas a pequeñas y grandes empresas, dándoles muchas ventajas tecnológicas tanto en sus operaciones diarias como en la experiencia de uso de sus consumidores, así como ayudándoles a posicionarse en el mercado de forma digital. Con herramientas de low-code, podrás crear tiendas en línea para reflejar su identidad de marca y facilitar sus operaciones.
 
-<mark style="background-color:green;">**Utilizando Shopify, tu misión será replicar un sitio de e-commerce de tu elección, recreando todo el flujo de compra desde su landing page hasta el carrito de compra, en desktop y mobile.**</mark>
+<mark style="background-color:green;">**Utilizando**</mark> [<mark style="background-color:green;">**Shopify Partners**</mark>](https://www.shopify.com/mx/partners)<mark style="background-color:green;">**, tu misión será replicar**</mark> [<mark style="background-color:green;">**este sitio de referencia**</mark>](https://youmatter.mx/)<mark style="background-color:green;">**, recreando todo el flujo de compra desde su landing page hasta el carrito de compra, para la versión desktop.**</mark>
 
 
 
 ## Lo que aprenderás:
 
-* Al finalizar, vas a comprender cómo funcionan las plataformas no-code para e-commerce y su lógica de personalización, muy utilizadas por equipos de mercadeo
-* Comprenderás principios de posicionamiento en buscadores (SEO), así como algunas métricas de mercadeo para comprender la conducta de las personas usuarias dentro del sitio web
+* Al finalizar, vas a comprender cómo funcionan las plataformas para e-commerce y su lógica de personalización, muy utilizadas por equipos de ventas y mercadeo;
+* Comprenderás principios de posicionamiento en buscadores (SEO), así como algunas métricas de mercadeo para comprender la conducta de las personas usuarias dentro del sitio web.
+
+
 
 ## Consideraciones
 
 * Debes trabajar de forma individual. Te invitamos a mostrar avances a tus compañeras para rebotar ideas, desbloquearte y compartir descubrimientos.
-* Concéntrate en la herramienta y el contenido escrito, NO es necesario ni recomendable que propongas cambios en el diseño.&#x20;
-* Identifica cuáles elementos requieren personalización mediante cambios en el código de la plantilla y comunícalo. Lo importante es aprender a diferenciar hasta dónde llega la herramienta y hasta dónde se requiere trabajo un poco más profundo para el cual necesitas apoyo de desarrolladoras de software.
+* Concéntrate en la herramienta, NO es necesario ni recomendable que propongas cambios en el diseño.&#x20;
+* Identifica cuáles elementos requieren personalización mediante cambios en el código de la plantilla y comunícalo. **Lo importante es aprender a diferenciar hasta dónde llega la herramienta y hasta dónde se requiere trabajo un poco más profundo para el cual necesitas apoyo de desarrolladoras de software.**
 
 
 
@@ -48,32 +50,45 @@ Durante los diferentes avances, o al cierre del proyecto, debes presentar docume
 
 <details>
 
-<summary>Hito 1 (obligatorio)</summary>
+<summary>Hito 1: Configuración (obligatorio)</summary>
 
 Para comenzar esta travesía digital, necesitarás abrir una cuenta en la plataforma y crear tu primera tienda.
 
 **Criterios de aceptación:**
 
-1. Abre una cuenta gratuita en [Shopify Partners](https://www.shopify.com/partners), crea una tienda y asígnale la plantilla más reciente (llamada “dawn”)
-2. Comparte con el equipo de Laboratoria el link al sitio web y la clave de acceso. _Nota: Es diferente a tus datos de acceso, es una clave creada por Shopify para acceder solamente al sitio web, como lo verían los clientes cuando el sitio se publique_
-3. Selecciona el sitio de e-commerce que vas a replicar y comparte el link con el equipo de Laboratoria. Este será tu sitio web de “referencia” durante todo el proyecto. _Nota: Elige alguno que utilice Shopify como plataforma base, así te será más fácil comprender las posibilidades de diseño y funcionalidades_
+1. Abre una cuenta gratuita en [Shopify Partners](https://www.shopify.com/partners), crea una tienda y asígnale la plantilla más reciente (llamada “dawn”);
+2. Comparte con el equipo de Laboratoria el link al sitio web y la clave de acceso. \
+   _Nota: Es diferente a tus datos de acceso, es una clave creada por Shopify para acceder solamente al sitio web en estado de "desarrollo"._
 
 </details>
 
 <details>
 
-<summary>Hito 2 (obligatorio)</summary>
+<summary>Hito 2: Navegación (obligatorio)</summary>
 
-Listo! una vez creada la tienda es momento de empezar a modificar la plantilla hasta que luzca lo más similar posible al sitio de referencia que elegiste.
+Listo! una vez creada la tienda es momento de empezar a modificar la plantilla hasta que luzca lo más similar posible a la versión desktop del sitio de referencia.
 
 **Criterios de aceptación:**
 
-1. Replica el contenido de la navegación principal y el footer, incluyendo el logotipo
-2. Crea la estructura del homepage con la misma cantidad y tipo de secciones que el sitio de referencia
-3. Cambia la plantilla con los colores y tipografías del sitio de referencia
-4. Modifica los estilos de al menos 3 secciones del homepage para que luzcan lo más similar posible al sitio de referencia. _Nota: algunas personalizaciones requieren cambios en el código directamente, identifica hasta dónde puedes llegar y hasta dónde necesitarías ayuda de una desarrolladora web._
+1. Replica la navegación principal, incluyendo el logotipo;
+2. Cambia la plantilla con los colores y tipografías del sitio de referencia;
 
-**Si el sitio de referencia cuenta con animaciones personalizadas (diferentes a las disponibles en la plantilla), NO trates de replicarlas aún. Esto lo podrás hacer más adelante en los próximos hitos.**
+**Si el sitio de referencia cuenta con animaciones personalizadas (diferentes a las disponibles en la plantilla), NO trates de replicarlas aún.**&#x20;
+
+</details>
+
+<details>
+
+<summary>Hito 3: Banner principal (obligatorio)</summary>
+
+Es el punto principal de todo landing-page, por lo que es importante que luzca lo mejor posible, sino los clientes potenciales abandonarán el sitio rápidamente. Replica todo el contenido utilizando el componente de carrusel que incluye Shopify.
+
+**Criterios de aceptación:**
+
+1. Inserta el carrusel y ajústalo para que tenga el mismo contenido de la página de referencia.
+2. Modifica los estilos hasta que se vea lo más similar posible al sitio de referencia. _Nota: algunas personalizaciones requieren cambios en el código directamente, identifica hasta dónde puedes llegar y dónde necesitar iasayuda de una desarrolladora web._
+
+
 
 </details>
 
@@ -84,6 +99,8 @@ Listo! una vez creada la tienda es momento de empezar a modificar la plantilla h
 Con el homepage avanzado, vamos a crear la página de “colección de productos” y la página de “detalle de producto”, estas estructuras se repetirán para todas las colecciones y productos del e-commerce.
 
 **Criterios de aceptación**&#x20;
+
+
 
 1. Elige una colección de productos específica y crea al menos 5 productos. _Nota: No te desgastes creando absolutamente todos los productos, muchas veces es una tarea automatizada mediante bases de datos o integraciones con otras plataformas_
 2. Replica la estructura de la página de “colección” con todas las secciones necesarias
@@ -166,4 +183,3 @@ Ahora sí, con toda tu tienda completa y funcional, puedes dedicarte a pulir los
 ***
 
 ### **Con herramientas low-code, puedes explotar muchísimo tus habilidades de UX design y llevarlas más allá! creando productos digitales de 0 a 100** :rocket:
-
