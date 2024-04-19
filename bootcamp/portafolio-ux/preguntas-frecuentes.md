@@ -2,6 +2,17 @@
 description: >-
   Compartimos un listado de preguntas o dudas sobre el portafolio que han
   surgido en otras generaciones de UX designer.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Preguntas frecuentes
@@ -41,7 +52,7 @@ Durante la investigación vamos a recolectar información del usuario y de la em
 
 Recordatorio: Tener en cuenta que puede existir empresas que soliciten no publicar los diseños con su marca y debas cambiar los colores y nombres. Te recomendamos visitar la sección: [Casos de estudio confidenciales en el portafolio](https://app.gitbook.com/o/-LC96\_xxjfFd8K0EG0Zl/s/ENpdTpQBmJHJDQiY6AkR/\~/changes/35/actualizacion-de-entregables/recursos-complementarios-portafolio/casos-de-estudio-confidenciales-en-el-portafolio).
 
-### **6 . ¿Mi portafolio debe tener la identidad visual de la empresa ?**
+### **6. ¿Mi portafolio debe tener la identidad visual de la empresa ?**
 
 La propuesta es que tu portafolio tenga una marca visual propia, puedes mezclar ciertos colores de la empresa.
 
