@@ -34,15 +34,25 @@ Con herramientas como [Framer](https://www.framer.com/) o [Durable](https://dura
 
 _Pasos 1 y 2 en Framer:_
 
-![](https://laboratoria1.gitbook.io/\~gitbook/image?url=https%3A%2F%2F3614678492-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FENpdTpQBmJHJDQiY6AkR%252Fuploads%252FAHs3TEPUZ5XmroYeL8KT%252Fimage%2520%283%29.png%3Falt%3Dmedia%26token%3D38a541e4-6d0d-414f-bc09-37486727fadd\&width=300\&dpr=4\&quality=100\&sign=a0bc6a23565d61d1b50a21dc6240234b885e13d0cf052e7cb2fc43b99fce588f) ![](https://laboratoria1.gitbook.io/\~gitbook/image?url=https%3A%2F%2F3614678492-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FENpdTpQBmJHJDQiY6AkR%252Fuploads%252FpKRvj4qw5LAqYlAW0mCY%252Fimage%2520%284%29.png%3Falt%3Dmedia%26token%3D3d1b82e2-f99d-4e1e-a285-2e6e4064a569\&width=300\&dpr=4\&quality=100\&sign=ee592768e8cb190b02266c1c6a573183e5da6299718cfd8da739a0d15927a535)
+<div>
+
+<figure><img src="../../.gitbook/assets/image (4).png" alt="" width="272"><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/image.avif" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
 
 _Paso 3:_
 
-![](https://laboratoria1.gitbook.io/\~gitbook/image?url=https%3A%2F%2F3614678492-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FENpdTpQBmJHJDQiY6AkR%252Fuploads%252FQKxOPLd8OcfMFolLNuQ8%252Fimage%2520%285%29.png%3Falt%3Dmedia%26token%3D10685561-f897-4973-93f2-7fc48a68bea3\&width=768\&dpr=4\&quality=100\&sign=595f176a5414e5c506257a58958d1b16886a8f1e7135ed4944e6f4797edaf28a)
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 _Paso 4 (después de 15 segundos de magia):_
 
-![](https://laboratoria1.gitbook.io/\~gitbook/image?url=https%3A%2F%2F3614678492-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FENpdTpQBmJHJDQiY6AkR%252Fuploads%252Ffzazm8o3QLBgmTZ14Dl3%252Fimage%2520%286%29.png%3Falt%3Dmedia%26token%3D033c68f5-5d60-48ca-9a40-e4ad9d91e50a\&width=768\&dpr=4\&quality=100\&sign=19d551a5fbafab402dee6cfeea794486673ac9207b69352088117e89cf6e5710)La herramienta generó secciones, breakpoints (Versiones desktop, tablet y phone) e incluso un concepto alrededor de la preferencia por el color rosa.
+<figure><img src="../../.gitbook/assets/image.webp" alt=""><figcaption></figcaption></figure>
+
+La herramienta generó secciones, breakpoints (Versiones desktop, tablet y phone) e incluso un concepto alrededor de la preferencia por el color rosa.
 
 **Optimiza tu portafolio con ayuda de la IA**
 

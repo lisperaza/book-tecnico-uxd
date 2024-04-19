@@ -56,19 +56,8 @@ Realmente no existe una forma "correcta" de presentar tu portafolio, sin embargo
 
 
 
-### Portafolio de egresadas del Bootcamp UXD
-
-Puedes utilizarlos como guía para tu auto-evalución, en estos enlaces podrás encontrar portafolios realizados en diferentes plataformas.
-
-* [Quetzi Design](https://quetzidesign.myportfolio.com/quetzidesign)
-* [Karla Angulo](https://www.figma.com/proto/QlropwPFdcyBdkIxunEpDQ/Portafolio-Karla-Angulo---UX-Designer?page-id=412%3A1158\&node-id=412-1298\&viewport=241%2C48%2C0.08\&scaling=contain\&starting-point-node-id=412%3A1160\&hide-ui=1)
-* [Susana Duran](https://susana-duran-portfolio.webflow.io/)
-* [Ale Acero](https://alejandracero1.wixsite.com/ale-acero-ux)
-* [Gera Galvis](https://www.behance.net/galvisgeral)
-* [Jessica Chávez](https://cjess.notion.site/cjess/Jessica-Ch-vez-7dea7418552048d0bf29b02e303f6b12)
-* [Adriana Tenorio](https://www.figma.com/proto/8AaZSDxRF8UmvidEudaVB5/Portafolio-AdrianaTenorio?node-id=285-545\&scaling=min-zoom\&page-id=6%3A33\&starting-point-node-id=285%3A545)
-
-#### Algunos recursos adicionales que te serán de ayuda
+### Algunos recursos adicionales que te serán de ayuda
 
 * [8 UX portfolio tips & best practices all designers should follow](https://www.uxdesigninstitute.com/blog/8-ux-portfolio-best-practices/)
 * [Best Practices for Creating Your UX Design Portfolio](https://www.uxmatters.com/mt/archives/2022/01/best-practices-for-creating-your-ux-design-portfolio.php)
+
