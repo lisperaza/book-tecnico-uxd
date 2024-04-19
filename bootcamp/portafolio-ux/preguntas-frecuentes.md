@@ -50,7 +50,7 @@ Durante la investigación vamos a recolectar información del usuario y de la em
 * Datos personales de los usuarios de tu investigación (por ejemplo: fotos, nombres, dirección)
 * Data sensible de la empresa: información de problemáticas internas de la organización.
 
-Recordatorio: Tener en cuenta que puede existir empresas que soliciten no publicar los diseños con su marca y debas cambiar los colores y nombres. Te recomendamos visitar la sección: [Casos de estudio confidenciales en el portafolio](https://app.gitbook.com/o/-LC96\_xxjfFd8K0EG0Zl/s/ENpdTpQBmJHJDQiY6AkR/\~/changes/35/actualizacion-de-entregables/recursos-complementarios-portafolio/casos-de-estudio-confidenciales-en-el-portafolio).
+Recordatorio: Tener en cuenta que puede existir empresas que soliciten no publicar los diseños con su marca y debas cambiar los colores y nombres. Te recomendamos visitar la sección: [Proyectos confidenciales.](proyectos-confidenciales.md)
 
 ### **6. ¿Mi portafolio debe tener la identidad visual de la empresa ?**
 
