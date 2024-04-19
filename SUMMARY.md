@@ -19,7 +19,10 @@
 * [💡 Design lab](proyectos-bootcamp/design-lab/README.md)
   * [Empresas UXD007 - WIP](proyectos-bootcamp/design-lab/empresas-uxd007-wip.md)
 * [🧘‍♀️ Portafolio UX](proyectos-bootcamp/portafolio-ux/README.md)
+  * [Proyectos confidenciales](proyectos-bootcamp/portafolio-ux/proyectos-confidenciales.md)
+  * [Recursos complementarios](proyectos-bootcamp/portafolio-ux/recursos-complementarios.md)
   * [Auto-evaluar tu portafolio](proyectos-bootcamp/portafolio-ux/auto-evaluar-tu-portafolio.md)
+  * [Preguntas frecuentes](proyectos-bootcamp/portafolio-ux/preguntas-frecuentes.md)
 
 ## Proyectos Up-skilling
 
