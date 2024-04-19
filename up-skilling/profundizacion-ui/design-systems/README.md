@@ -1,5 +1,5 @@
 ---
-cover: ../../.gitbook/assets/6392a1568df82b8ff7d4a60f_blog-img-1.2.jpeg
+cover: ../../../.gitbook/assets/6392a1568df82b8ff7d4a60f_blog-img-1.2.jpeg
 coverY: 0
 layout:
   cover:

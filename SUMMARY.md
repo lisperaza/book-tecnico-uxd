@@ -10,26 +10,26 @@
   * [🟢 Validación de propuestas](intro/lo-que-aprenderas/validacion-de-propuestas.md)
   * [🔵 Documentación técnica](intro/lo-que-aprenderas/documentacion-tecnica.md)
 
-## Proyectos Bootcamp
+## Bootcamp
 
-* [🔎 Design detectives](proyectos-bootcamp/design-detectives.md)
-* [🚀 Mindset MVP](proyectos-bootcamp/mindset-mvp/README.md)
-  * [Startups UXD007](proyectos-bootcamp/mindset-mvp/startups-uxd007.md)
-* [🌈 UXploradoras](proyectos-bootcamp/uxploradoras.md)
-* [💡 Design lab](proyectos-bootcamp/design-lab/README.md)
-  * [Empresas UXD007 - WIP](proyectos-bootcamp/design-lab/empresas-uxd007-wip.md)
-* [🧘‍♀️ Portafolio UX](proyectos-bootcamp/portafolio-ux/README.md)
-  * [Proyectos confidenciales](proyectos-bootcamp/portafolio-ux/proyectos-confidenciales.md)
-  * [Recursos complementarios](proyectos-bootcamp/portafolio-ux/recursos-complementarios.md)
-  * [Auto-evaluar tu portafolio](proyectos-bootcamp/portafolio-ux/auto-evaluar-tu-portafolio.md)
-  * [Preguntas frecuentes](proyectos-bootcamp/portafolio-ux/preguntas-frecuentes.md)
+* [🔎 Design detectives](bootcamp/design-detectives.md)
+* [🚀 Mindset MVP](bootcamp/mindset-mvp/README.md)
+  * [Startups UXD007](bootcamp/mindset-mvp/startups-uxd007.md)
+* [🌈 UXploradoras](bootcamp/uxploradoras.md)
+* [💡 Design lab](bootcamp/design-lab/README.md)
+  * [Empresas UXD007 - WIP](bootcamp/design-lab/empresas-uxd007-wip.md)
+* [🧘‍♀️ Portafolio UX](bootcamp/portafolio-ux/README.md)
+  * [Proyectos confidenciales](bootcamp/portafolio-ux/proyectos-confidenciales.md)
+  * [Recursos complementarios](bootcamp/portafolio-ux/recursos-complementarios.md)
+  * [Auto-evaluar tu portafolio](bootcamp/portafolio-ux/auto-evaluar-tu-portafolio.md)
+  * [Preguntas frecuentes](bootcamp/portafolio-ux/preguntas-frecuentes.md)
 
-## Proyectos Up-skilling
+## Up-skilling
 
-* [🎨 Profundización UI](proyectos-up-skilling/profundizacion-ui/README.md)
-  * [🥷 Ninja del prototipado](proyectos-up-skilling/profundizacion-ui/ninja-del-prototipado.md)
-  * [🦄 Design systems](proyectos-up-skilling/profundizacion-ui/design-systems.md)
-    * [Guía: Design systems](proyectos-up-skilling/profundizacion-ui/design-systems/guia-design-systems.md)
-* [✨ Low-code](proyectos-up-skilling/low-code/README.md)
-  * [👑 Taylor nation](proyectos-up-skilling/low-code/taylor-nation.md)
-  * [🛍️ Shopper](proyectos-up-skilling/low-code/shopper-wip.md)
+* [🎨 Profundización UI](up-skilling/profundizacion-ui/README.md)
+  * [🥷 Ninja del prototipado](up-skilling/profundizacion-ui/ninja-del-prototipado.md)
+  * [🦄 Design systems](up-skilling/profundizacion-ui/design-systems/README.md)
+    * [Guía: Design systems](up-skilling/profundizacion-ui/design-systems/guia-design-systems.md)
+* [✨ Low-code](up-skilling/low-code/README.md)
+  * [👑 Taylor nation](up-skilling/low-code/taylor-nation.md)
+  * [🛍️ Shopper](up-skilling/low-code/shopper.md)
