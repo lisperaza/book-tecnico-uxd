@@ -17,7 +17,7 @@
   * [Startups UXD007](bootcamp/mindset-mvp/startups-uxd007.md)
 * [🌈 UXploradoras](bootcamp/uxploradoras.md)
 * [💡 Design lab](bootcamp/design-lab/README.md)
-  * [Empresas UXD007 - WIP](bootcamp/design-lab/empresas-uxd007-wip.md)
+  * [Empresas UXD007](bootcamp/design-lab/empresas-uxd007.md)
 * [🧘‍♀️ Portafolio UX](bootcamp/portafolio-ux/README.md)
   * [Proyectos confidenciales](bootcamp/portafolio-ux/proyectos-confidenciales.md)
   * [Recursos complementarios](bootcamp/portafolio-ux/recursos-complementarios.md)
