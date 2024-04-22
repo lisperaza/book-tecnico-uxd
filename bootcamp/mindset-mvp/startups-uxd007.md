@@ -50,7 +50,7 @@ Es ex trabajadora de Laboratoria, ahora es emprendedora. Tiene todo el mindset d
 
 <details>
 
-<summary>AIctive</summary>
+<summary><strong>AIctive</strong></summary>
 
 Usar la AI y tecnología para transformar la forma en que se realiza la rehabilitación en la actualidad. Los clientes son los fisioterapeutas de clínicas, los usuarios personas que están en proceso de recuperación muscular.
 
@@ -82,7 +82,7 @@ Es quien lidera el diseño y desarrollo de la web y app de AIctive y muy emocion
 
 <details>
 
-<summary>Licita Lab</summary>
+<summary><strong>Licita Lab</strong></summary>
 
 Software de gestión de licitaciones públicas que integra todas las herramientas para facilitar el trabajo de empresas proveedoras del Estado en Perú y Chile. Usa Data Science y Machine Learning para brindar a las más de 500 empresas lo necesario para concursar en licitaciones con los Estados de cada país.
 
@@ -112,7 +112,7 @@ Es egresada del bootcamp de desarrollo de Laboratoria, conoce y está muy animad
 
 <details>
 
-<summary>Ledgi-Fi</summary>
+<summary><strong>Ledgi-Fi</strong></summary>
 
 Plataforma para invertir, dar seguimiento y compartir su portafolio y calcular ganancias para cumplir con los impuestos. Esta herramienta permite a los usuarios organizar, rastrear y planificar sus inversiones en criptomonedas, acciones, ETFs y fondos mutuos facilitando así la declaración de impuestos y el rastreo de todo su portafolio de inversiones.
 

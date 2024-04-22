@@ -18,7 +18,7 @@ Durante el proyecto colaborarás con una de las empresas participantes, con el f
 
 <details>
 
-<summary>Batech</summary>
+<summary><strong>Batech</strong></summary>
 
 Impulsa la eficiencia y la seguridad de empresas a través de tecnología AI. Batech transforma cámaras de sólo ser usadas para auditar, en auténticas herramientas para medir productividad y seguridad.
 
@@ -48,7 +48,7 @@ Software Engineer 🎉💛
 
 <details>
 
-<summary>BHP</summary>
+<summary><strong>BHP</strong></summary>
 
 Empresa de extracción de recursos con presencia en más de 90 países, y actualmente más de 80.000 personas trabajan en la compañía. Las actividades de ventas y marketing se realizan desde Singapur y Houston y nuestros productos se venden a nivel global. BHP se enfoca en los recursos que el mundo necesita para crecer y descarbonizarse.
 
@@ -78,7 +78,7 @@ Es egresada del bootcamp de UX de Laboratoria, conoce y está muy animada con vo
 
 <details>
 
-<summary>Openn</summary>
+<summary><strong>Openn</strong></summary>
 
 Diseñamos experiencias digitales y físicas de producto, servicio y marca. Nuestro marco metodológico es el diseño inclusivo donde buscamos diseñar para el 20% de las personas (los atípicos), para atender los retos más complejos.
 
@@ -107,7 +107,7 @@ Recursos:
 
 <details>
 
-<summary>MetLife</summary>
+<summary><strong>MetLife</strong></summary>
 
 Compañía proveedora de soluciones de protección y ahorro cuyo rol principal es ayudar a generaciones de personas en todo el mundo a proteger a sus familias y sus finanzas. MetLife es líder de servicios financieros en el país y el mundo, proporcionando seguros, anualidades, beneficios para empleados y gestión de activos para nuestros clientes individuales e institucionales.
 
