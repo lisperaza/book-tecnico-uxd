@@ -38,7 +38,7 @@ Recursos:
 **Product Owner:** Salvador Perez. Co-founder Batech\
 Software Engineer 🎉💛
 
-**Coach designada:** <mark style="background-color:red;">TBD</mark>
+**Coach designada:** Fio
 
 ### Aspectos a considerar
 
@@ -68,7 +68,7 @@ Recursos:
 **Product Owner:** Joyce Cornejo. UX Designer de BHP\
 Es egresada del bootcamp de UX de Laboratoria, conoce y está muy animada con volver a Laboratoria como Product Owner 💛💪🏼
 
-**Coach designada:** <mark style="background-color:red;">TBD</mark>
+**Coach designada:** Fio
 
 ### Aspectos a considerar
 
@@ -97,7 +97,7 @@ Recursos:
 
 **Product Owner:** Natalia Bortoni. Co-founder de Openn
 
-**Coach designada:** <mark style="background-color:red;">TBD</mark>
+**Coach designada:** Glo
 
 ### Aspectos a considerar
 
@@ -126,7 +126,7 @@ Recursos:
 
 **Product Owner:** Natalia Pardo. Product Owner del portal de corredores
 
-**Coach designada:** <mark style="background-color:red;">TBD</mark>
+**Coach designada:** Glo
 
 ### Aspectos a considerar
 
