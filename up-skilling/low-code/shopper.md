@@ -134,11 +134,19 @@ Ahora sí, con toda tu tienda casi completa, agrega el contenido del footer.
 
 <summary>Hito 7: Análisis de SEO (opcional)</summary>
 
-Con el diseño completo del homepage, es momento de analizar el contenido del sitio web de referencia, para comprender su posicionamiento en los motores de búsqueda.
+Ahora es momento de analizar el contenido del sitio web de referencia, para comprender su posicionamiento en los motores de búsqueda.
 
 **Criterios de aceptación:**
 
-1. (por definir)
+1. Realiza una descripción corta sobre cómo funcionan los motores de búsqueda (rastreo, indexación, clasificación)
+2. Explica cuáles son los conceptos principales del SEO (relevancia, autoridad, volumen)
+3. Identifica las métricas clave (tráfico orgánico, CTR, posición promedio, etc.) para analizar el SEO de un sitio web
+4. Explica los principales tipos de palabras clave y las herramientas utilizadas para realizar una investigación de palabras clave
+5. Utilizando 5 palabras o frases clave del sitio web de referencia, identifica sus principales competidores y analiza su tráfico orgánico
+6. Investiga sobre las técnicas más recomendadas para optimizar el contenido de una página web (títulos, meta descripciones, encabezados, etc.)
+7. Plantea una propuesta de mejora con el objetivo de aumentar el tráfico orgánico del sitio web de referencia
+
+**Apóyate en la inteligencia artificial para explorar esta nueva área de conocimiento!**
 
 </details>
 
