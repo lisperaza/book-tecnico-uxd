@@ -160,6 +160,7 @@ Acá te compartimos algunos recursos de utilidad para que inicies:
 * [Tienda en línea](https://help.shopify.com/es/manual/online-store) →
 * [The OFFICIAL Shopify Tutorial - Ecommerce from Scratch](https://www.youtube.com/watch?v=ferhOYx1NMo) →
 * [¿Cómo Funciona Shopify? - Tutorial en Español 🏆](https://www.youtube.com/watch?v=jc-m7ts0iu8) →
+* [Cómo hacer un keyword research del bueno](https://www.youtube.com/watch?v=EFLoIng5064\&list=PL\_IftvIcWGcjFX0M8z-LTrGMEgqIpj5MR\&index=3) →
 * Herramienta [Google Keyword Planner](https://ads.google.com/home/tools/keyword-planner/) →
 * Herramienta [Google Trends](https://trends.google.es/trends/) →
 * Herramienta [Semrush](https://es.semrush.com/) →
