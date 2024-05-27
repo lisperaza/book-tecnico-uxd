@@ -32,7 +32,7 @@ Las plataformas de e-commerce han facilitado las ventas a pequeñas y grandes em
 
 #### Objetivos de aprendizaje (OAs)
 
-<table><thead><tr><th width="63">⚪️</th><th width="235">Meta</th><th width="436">Objetivo de aprendizaje</th></tr></thead><tbody><tr><td>⚪️</td><td><strong>E-commercer en Shopify</strong></td><td>Modificación de estilos de la plantilla</td></tr><tr><td></td><td></td><td>Uso de elementos interactivos (carrusel, mega menú, colage, etc.)</td></tr><tr><td></td><td></td><td>Configuración de colecciones y productos</td></tr><tr><td></td><td></td><td>Modificación del contenido (textos, imágenes, etc.)</td></tr><tr><td>⚪️</td><td><strong>Principios de SEO</strong></td><td>Comprender conceptos básicos de SEO</td></tr><tr><td></td><td></td><td>Explorar métricas de SEO</td></tr><tr><td></td><td></td><td>Conocer el impacto del UX en el SEO</td></tr></tbody></table>
+<table><thead><tr><th width="63">⚪️</th><th width="235">Meta</th><th width="436">Objetivo de aprendizaje</th></tr></thead><tbody><tr><td>⚪️</td><td><strong>E-commercer en Shopify</strong></td><td>Modificar estilos de la plantilla</td></tr><tr><td></td><td></td><td>Usar elementos interactivos (carrusel, mega menú, collage, etc.)</td></tr><tr><td></td><td></td><td>Configurar de colecciones y productos</td></tr><tr><td></td><td></td><td>Modificar el contenido (textos, imágenes, etc.)</td></tr><tr><td>⚪️</td><td><strong>Principios de SEO</strong></td><td>Comprender conceptos básicos de SEO</td></tr><tr><td></td><td></td><td>Explorar métricas de SEO</td></tr><tr><td></td><td></td><td>Conocer el impacto del UX en el SEO</td></tr></tbody></table>
 
 
 
