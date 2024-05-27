@@ -30,6 +30,10 @@ Las plataformas de e-commerce han facilitado las ventas a pequeñas y grandes em
 * Al finalizar, vas a comprender cómo funcionan las plataformas para e-commerce y su lógica de personalización, muy utilizadas por equipos de ventas y mercadeo;
 * Comprenderás principios de posicionamiento en buscadores (SEO), así como algunas métricas de mercadeo para comprender la conducta de las personas usuarias dentro del sitio web.
 
+#### Objetivos de aprendizaje (OAs)
+
+<table><thead><tr><th width="63">⚪️</th><th width="235">Meta</th><th width="436">Objetivo de aprendizaje</th></tr></thead><tbody><tr><td>⚪️</td><td><strong>E-commercer en Shopify</strong></td><td>Modificación de estilos de la plantilla</td></tr><tr><td></td><td></td><td>Uso de elementos interactivos (carrusel, mega menú, colage, etc.)</td></tr><tr><td></td><td></td><td>Configuración de colecciones y productos</td></tr><tr><td></td><td></td><td>Modificación del contenido (textos, imágenes, etc.)</td></tr><tr><td>⚪️</td><td><strong>Principios de SEO</strong></td><td>Comprender conceptos básicos de SEO</td></tr><tr><td></td><td></td><td>Explorar métricas de SEO</td></tr><tr><td></td><td></td><td>Conocer el impacto del UX en el SEO</td></tr></tbody></table>
+
 
 
 ## Consideraciones
