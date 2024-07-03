@@ -2,6 +2,16 @@
 
 Realmente no existe una forma "correcta" de presentar tu portafolio, sin embargo, hay algunos aspectos generales que puedes revisar para aumentar la calidad del mismo.&#x20;
 
+
+
+### Contenido recomendado
+
+* **About me:** En esta sección, deja ver un poco de la parte personal y profesional detrás de tu vitrina de proyectos. Aquí puedes imprimir tu sello. Complementa listando algunas de tus fortalezas/habilidades que consideres más destacadas y habla de tus intereses como diseñadora UX.
+* **Proyectos:** En esta sección organiza los proyectos más destacados. En promedio, 3 proyectos es un buen número, en ocasiones menos es más si los mismos explican de forma correcta el proceso de diseño.
+* **Contacto:** Agrega una sección con los diferentes canales de contacto (LinkedIn, correo, teléfono celular, etc.). El camino a una nueva oportunidad laboral, de colaboración o networking, radica en la facilidad y diversidad para que te contacten.
+
+### **Algunos criterios para un portafolio de buena calidad**
+
 <details>
 
 <summary>Storytelling</summary>
@@ -24,11 +34,11 @@ Realmente no existe una forma "correcta" de presentar tu portafolio, sin embargo
 
 <details>
 
-<summary>Contenido</summary>
+<summary>Impacto al negocio</summary>
 
-* **About me:** En esta sección, deja ver un poco de la parte personal y profesional detrás de tu vitrina de proyectos. Aquí puedes imprimir tu sello. Complementa listando algunas de tus fortalezas/habilidades que consideres más destacadas y habla de tus intereses como diseñadora UX.
-* **Proyectos:** En esta sección organiza los proyectos más destacados. Max. 3 proyectos es un buen número, en ocasiones menos es más si los mismos explican de forma correcta el proceso de diseño.
-* **Contacto:** Agrega una sección con los diferentes canales de contacto (Linkedin, correo, teléfono celular, etc.). El camino a una nueva oportunidad laboral, de colaboración o networking, radica en la facilidad y diversidad para que te contacten.
+* **Indicadores de éxito:** Explica de forma breve los principales indicadores de éxito que utilizará el negocio para evaluar el proyecto. Diseñamos con un objetivo en mente, tratando de alcanzar metas para el negocio, por ejemplo: incrementar ventas, retener clientes, etc.
+* **Racionales de diseño:** Conecta de forma explícita porqué tu diseño funciona para el usuario. Ahórrale trabajo a tus evaluadores! Justifica tus decisiones de diseño de forma concreta y lógica. Ejemplo: cambiamos “equis” palabra porque los usuarios no comprendían su significado, etc.
+* **Valor generado:** Detalla como tu propuesta resuelve el problema inicial. Aún cuando tus diseños no hayan sido implementados aún, explica cuáles elementos claves de tu propuesta pretenden generar los resultados esperados por el negocio. Ejemplo: mayor claridad en las palabras reduce la frustración de los clientes, fomentando que terminen el proceso de compra, etc.
 
 </details>
 
@@ -44,20 +54,11 @@ Realmente no existe una forma "correcta" de presentar tu portafolio, sin embargo
 
 </details>
 
-<details>
-
-<summary>Impacto al negocio</summary>
-
-* **Indicadores de éxito:** Explica de forma breve los principales indicadores de éxito que utilizará el negocio para evaluar el proyecto. Diseñamos con un objetivo en mente, tratando de alcanzar metas para el negocio, por ejemplo: incrementar ventas, retener clientes, etc.
-* **Racionales de diseño:** Conecta de forma explícita porqué tu diseño funciona para el usuario. Ahórrale trabajo a tus evaluadores! Justifica tus decisiones de diseño de forma concreta y lógica. Ejemplo: cambiamos “equis” palabra porque los usuarios no comprendían su significado, etc.
-* **Valor generado:** Detalla como tu propuesta resuelve el problema inicial. Aún cuando tus diseños no hayan sido implementados aún, explica cuáles elementos claves de tu propuesta pretenden generar los resultados esperados por el negocio. Ejemplo: mayor claridad en las palabras reduce la frustración de los clientes, fomentando que terminen el proceso de compra, etc.
-
-</details>
-
 
 
 ### Algunos recursos adicionales que te serán de ayuda
 
 * [8 UX portfolio tips & best practices all designers should follow](https://www.uxdesigninstitute.com/blog/8-ux-portfolio-best-practices/)
 * [Best Practices for Creating Your UX Design Portfolio](https://www.uxmatters.com/mt/archives/2022/01/best-practices-for-creating-your-ux-design-portfolio.php)
+* [Ejemplo de caso de estudio: Nueva experiencia de seguros y asistencias](https://www.behance.net/gallery/176313231/Nueva-experiencia-de-seguros-y-asistencias)
 
