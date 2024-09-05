@@ -1,6 +1,6 @@
 # 💪 Camp de portafolio
 
-Para llevar tu portafolio al siguiente nivel, sigue esta guía de Hitos y expone frecuentemente tus avances para recibir feedback técnico de tus compañeras y el equipo de Laboratoria.
+Para llevar tu portafolio al siguiente nivel, sigue esta guía de hitos y expone frecuentemente tus avances para recibir feedback técnico de tus compañeras y el equipo de Laboratoria.
 
 Pero antes de iniciar, busquemos un poco de paz:
 

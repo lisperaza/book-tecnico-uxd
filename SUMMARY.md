@@ -31,9 +31,9 @@
 
 ## PORTAFOLIO
 
-* [🧘‍♀️ Intro a portafolio](portafolio/intro-a-portafolio/README.md)
-  * [Proyectos confidenciales](portafolio/intro-a-portafolio/proyectos-confidenciales.md)
-  * [Recursos complementarios](portafolio/intro-a-portafolio/recursos-complementarios.md)
-  * [Auto-evaluar tu portafolio](portafolio/intro-a-portafolio/auto-evaluar-tu-portafolio.md)
-  * [Preguntas frecuentes](portafolio/intro-a-portafolio/preguntas-frecuentes.md)
+* [🧘‍♀️ Intro a portafolio](bootcamp/portafolio-ux/README.md)
+  * [Proyectos confidenciales](bootcamp/portafolio-ux/proyectos-confidenciales.md)
+  * [Recursos complementarios](bootcamp/portafolio-ux/recursos-complementarios.md)
+  * [Auto-evaluar tu portafolio](bootcamp/portafolio-ux/auto-evaluar-tu-portafolio.md)
+  * [Preguntas frecuentes](bootcamp/portafolio-ux/preguntas-frecuentes.md)
 * [💪 Camp de portafolio](portafolio/camp-de-portafolio.md)
